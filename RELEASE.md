@@ -69,11 +69,13 @@ powershell -ExecutionPolicy Bypass -File .\create-release.ps1 -Version "1.0.0"
 
 The release package automatically includes:
 - ✅ `launch.ps1` - PowerShell launcher
+- ✅ `create-shortcut.ps1` - Desktop shortcut creator
 - ✅ `LICENSE` - License file
 - ✅ `README.md` - Project overview
 - ✅ `SloohDownloader/` - Complete application folder
   - Documentation (README, QUICKSTART, API_DOCUMENTATION)
   - Source code (`src/*.py`)
+  - Screenshots (`screenshots/*.png`)
   - Configuration template (`config/config.template.json`)
   - Empty `data/` and `logs/` directories
   - Test scripts (`tests/`)
@@ -192,6 +194,8 @@ A standalone Windows desktop application for bulk downloading Slooh astronomical
    choco install ironpython
    ```
    Or download from: https://ironpython.net/
+   
+   **Alternative**: Extract IronPython to `SloohDownloader\IronPython\` folder - the launcher will find it automatically (no PATH configuration needed)!
 
 2. **Download this release**:
    - Download `SloohDownloader-vX.X.X.zip` from the Assets section below
@@ -203,6 +207,8 @@ A standalone Windows desktop application for bulk downloading Slooh astronomical
    - Choose any folder where you have write access (avoid Program Files)
 
 4. **Launch the application**:
+   
+   **Option A: PowerShell Launcher**
    - Navigate to the extracted folder
    - Double-click `launch.ps1` to launch
    
@@ -211,6 +217,12 @@ A standalone Windows desktop application for bulk downloading Slooh astronomical
    cd C:\Users\YourName\Documents\SloohDownloader
    .\launch.ps1
    ```
+   
+   **Option B: Create Desktop Shortcut (Recommended)**
+   ```powershell
+   powershell -ExecutionPolicy Bypass -File .\create-shortcut.ps1
+   ```
+   Then double-click the **Slooh Image Downloader** icon on your desktop!
 
 ### First-Time Setup
 

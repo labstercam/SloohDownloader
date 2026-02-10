@@ -5,6 +5,22 @@ All notable changes to Slooh Image Downloader will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Added
+- `create-shortcut.ps1` - Automated desktop shortcut creation script
+- Local IronPython support - launcher can find IronPython in local folder without PATH configuration
+
+### Changed
+- `launch.ps1` enhanced to automatically search multiple IronPython locations:
+  - System PATH
+  - `C:\Program Files\IronPython 3.4\`
+  - Local `IronPython\` folder relative to application
+  - Multiple common installation directories
+- No longer requires IronPython to be in PATH environment variable
+- Improved documentation with local installation instructions
+- Updated release package to include `create-shortcut.ps1`
+
 ## [1.0.0] - 2026-02-10
 
 ### Added

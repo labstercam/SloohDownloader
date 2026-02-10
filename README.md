@@ -75,6 +75,13 @@ Slooh Image Downloader is a Windows application designed to help Slooh users **d
    choco install ironpython
    ```
    Or download from: https://ironpython.net/
+   
+   **Note**: The launcher will automatically find IronPython in common locations:
+   - System PATH
+   - `C:\Program Files\IronPython 3.4\`
+   - Local `IronPython\` folder next to the application
+   
+   No need to configure PATH environment variables!
 
 2. **Download the latest release**:
    - Go to [Releases](https://github.com/labstercam/SloohDownloader/releases)
@@ -96,15 +103,16 @@ Slooh Image Downloader is a Windows application designed to help Slooh users **d
      .\launch.ps1
      ```
    
-   **Option 2: Direct Launch**
+   **Option 2: Create Desktop Shortcut (Easiest)**
+   - Open PowerShell in the extracted folder
+   - Run: `powershell -ExecutionPolicy Bypass -File .\create-shortcut.ps1`
+   - Double-click the desktop icon anytime to launch
+   
+   **Option 3: Direct Launch**
    ```powershell
    cd SloohDownloader\src
    ipy gui_main.py
    ```
-   
-   **Option 3: Create Desktop Shortcut**
-   - Right-click `launch.ps1` → **Send to** → **Desktop (create shortcut)**
-   - Double-click the shortcut anytime to launch
 
 ### First-Time Setup (2 minutes)
 

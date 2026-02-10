@@ -69,6 +69,16 @@ choco install ironpython
 **Option 2: Direct Download**
 Download from: https://ironpython.net/
 
+**Option 3: Local Installation (No PATH Required)**
+Extract IronPython to `SloohDownloader\IronPython\` folder - the launcher will find it automatically!
+
+**Note**: The launcher automatically searches common IronPython locations:
+- System PATH
+- `C:\Program Files\IronPython 3.4\`
+- Local `IronPython\` folder
+
+No need to configure PATH environment variables!
+
 ### 2. Download and Install
 
 1. **Download the latest release**:
@@ -88,15 +98,17 @@ Download from: https://ironpython.net/
 ```
 Navigate to the extracted folder and double-click `launch.ps1`, or run from PowerShell.
 
-**Option 2: Direct Launch**
+**Option 2: Create Desktop Shortcut (Recommended)**
+```powershell
+powershell -ExecutionPolicy Bypass -File .\create-shortcut.ps1
+```
+Then double-click the **Slooh Image Downloader** icon on your desktop!
+
+**Option 3: Direct Launch**
 ```bash
 cd SloohDownloader\src
 ipy gui_main.py
 ```
-
-**Option 3: Create Desktop Shortcut**
-- Right-click `launch.ps1` → **Send to** → **Desktop (create shortcut)**
-- Double-click the shortcut anytime to launch
 
 The GUI will launch with a modern Windows Forms interface.
 
@@ -235,6 +247,7 @@ Use **Force Redownload** checkbox when:
 ```
 Repository Root/
 ├── launch.ps1                  # PowerShell launcher (double-click to start!)
+├── create-shortcut.ps1         # Desktop shortcut creator
 ├── README.md                   # Project overview
 ├── QUICKSTART.md               # Quick start guide  
 ├── RELEASE.md                  # Release documentation
@@ -332,7 +345,12 @@ All configuration is done through the **Configuration Tab** in the GUI. Settings
 ### "IronPython not found"
 - Install IronPython: `choco install ironpython`
 - Or download from: https://ironpython.net/
-- Ensure `ipy.exe` is in your PATH
+- **Or** extract IronPython to: `SloohDownloader\IronPython\` (launcher will find it automatically)
+- The launcher searches these locations automatically:
+  - System PATH
+  - `C:\Program Files\IronPython 3.4\`
+  - Local `IronPython\` folder
+- No need to configure PATH environment variables!
 
 ### "Authentication failed"
 - Verify username and password in Configuration tab

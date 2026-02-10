@@ -38,6 +38,7 @@ New-Item -ItemType Directory -Path $PackageDir -Force | Out-Null
 Write-Info "Copying root files..."
 $RootFiles = @(
     "launch.ps1",
+    "create-shortcut.ps1",
     "LICENSE",
     "README.md"
 )
@@ -193,6 +194,7 @@ Write-Success "Size: $ZipSizeMB MB"
 Write-Success ""
 Write-Info "Package Contents:"
 Write-Info "  - launch.ps1 (launcher script)"
+Write-Info "  - create-shortcut.ps1 (desktop shortcut creator)"
 Write-Info "  - LICENSE"
 Write-Info "  - README.md"
 Write-Info "  - SloohDownloader/"
@@ -200,6 +202,7 @@ Write-Info "      - README.md (full documentation)"
 Write-Info "      - QUICKSTART.md"
 Write-Info "      - API_DOCUMENTATION.md"
 Write-Info "      - src/ (Python source files)"
+Write-Info "      - screenshots/ (application screenshots)"
 Write-Info "      - config/config.template.json"
 Write-Info "      - data/ (empty, for download tracker)"
 Write-Info "      - logs/ (empty, for log files)"

@@ -25,12 +25,19 @@ choco install ironpython
 **Option 2: Manual Download**
 Download from: https://ironpython.net/download/
 
+**Option 3: Local Installation (No PATH Required)**
+Extract IronPython to a local folder:
+- `SloohDownloader\IronPython\` (next to application)
+- The launcher will automatically find it
+
 **Verify Installation**:
 ```powershell
 ipy --version
 ```
 
 You should see something like: `IronPython 3.4.0`
+
+**Note**: The launcher automatically searches common IronPython locations, so you don't need to configure PATH environment variables!
 
 ## Installation
 
@@ -69,10 +76,14 @@ cd SloohDownloader\src
 ipy gui_main.py
 ```
 
-**Option 4: Create Desktop Shortcut**
-1. Right-click `launch.ps1`
-2. Select **Send to** → **Desktop (create shortcut)**
-3. Double-click the shortcut anytime to launch
+**Option 4: Create Desktop Shortcut (Automated)**
+1. Open PowerShell in the extracted folder
+2. Run:
+   ```powershell
+   powershell -ExecutionPolicy Bypass -File .\create-shortcut.ps1
+   ```
+3. A shortcut will be created on your desktop
+4. Double-click **Slooh Image Downloader** icon anytime to launch
 
 A Windows Forms GUI will appear with tabs: Download, Configuration, History, Statistics, Advanced.
 
@@ -215,8 +226,12 @@ Use the **Force Redownload** checkbox (Advanced Tab) when:
 ### "IronPython not found" or "'ipy' is not recognized"
 - Install IronPython: `choco install ironpython`
 - Or download from: https://ironpython.net/
-- Ensure `ipy.exe` is in your PATH
-- Try full path: `C:\Program Files\IronPython 3.4\ipy.exe`
+- **Or** extract IronPython to: `SloohDownloader\IronPython\` (launcher will find it automatically)
+- The launcher searches these locations automatically:
+  - System PATH
+  - `C:\Program Files\IronPython 3.4\`
+  - `SloohDownloader\IronPython\` (local folder)
+- No need to configure PATH environment variables!
 
 ### "GUI doesn't launch"
 - Try using `.\launch.ps1` from repository root (recommended)
