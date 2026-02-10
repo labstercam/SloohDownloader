@@ -192,7 +192,7 @@ SloohDownloader/
 
 ## Related Projects
 
-**Slooh.Explorer** (C#): Desktop application for exploring and managing Slooh images locally. Complements this downloader by providing image viewing and organization after download.
+**[Slooh.Explorer](https://github.com/Calteo/Slooh.Explorer)** (C#): Desktop application for exploring and managing Slooh images locally. Complements this downloader by providing image viewing and organization after download.
 
 ## Contributing
 
@@ -200,7 +200,7 @@ Contributions are welcome! This is an independent project focused on providing b
 
 ## License
 
-MIT License - Copyright (c) 2021-2026 Calteo
+BSD 3-Clause License - Copyright (c) 2026, Michael Camilleri
 
 See [LICENSE](LICENSE) file for details.
 

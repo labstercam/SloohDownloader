@@ -255,7 +255,7 @@ Contributions are welcome! Please open an issue or pull request.
 
 ## 📄 License
 
-MIT License - Copyright (c) 2021-2026 Calteo
+BSD 3-Clause License - Copyright (c) 2026, Michael Camilleri
 
 See [LICENSE](LICENSE) file for details.
 
