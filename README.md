@@ -74,15 +74,27 @@ Slooh Image Downloader is a Windows application designed to help Slooh users **d
    ```powershell
    choco install ironpython
    ```
+   Or download from: https://ironpython.net/
 
-2. **Clone or Download this repository**
+2. **Download the latest release**:
+   - Go to [Releases](https://github.com/labstercam/SloohDownloader/releases)
+   - Download `SloohDownloader-vX.X.X.zip`
 
-3. **Launch the application**:
+3. **Extract to your Documents folder**:
+   - Right-click the ZIP file → **Extract All**
+   - Choose location: `C:\Users\YourName\Documents\SloohDownloader`
+   - Or any folder where you have write access (avoid Program Files)
+
+4. **Launch the application**:
    
    **Option 1: Using PowerShell Launcher (Recommended)**
-   ```powershell
-   .\launch.ps1
-   ```
+   - Navigate to the extracted folder
+   - Double-click `launch.ps1`
+   - Or open PowerShell and run:
+     ```powershell
+     cd C:\Users\YourName\Documents\SloohDownloader
+     .\launch.ps1
+     ```
    
    **Option 2: Direct Launch**
    ```powershell
@@ -92,8 +104,7 @@ Slooh Image Downloader is a Windows application designed to help Slooh users **d
    
    **Option 3: Create Desktop Shortcut**
    - Right-click `launch.ps1` → **Send to** → **Desktop (create shortcut)**
-   - Or right-click `launch.ps1` → **Create shortcut** → Move to Desktop
-   - Double-click the shortcut to launch anytime
+   - Double-click the shortcut anytime to launch
 
 ### First-Time Setup (2 minutes)
 

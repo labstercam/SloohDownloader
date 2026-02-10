@@ -69,13 +69,24 @@ choco install ironpython
 **Option 2: Direct Download**
 Download from: https://ironpython.net/
 
-### 2. Run the Application
+### 2. Download and Install
+
+1. **Download the latest release**:
+   - Go to [Releases](https://github.com/labstercam/SloohDownloader/releases)
+   - Download `SloohDownloader-vX.X.X.zip`
+
+2. **Extract to your Documents folder**:
+   - Right-click ZIP → **Extract All**
+   - Recommended: `C:\Users\YourName\Documents\SloohDownloader`
+   - Choose any folder where you have write access (avoid Program Files)
+
+### 3. Run the Application
 
 **Option 1: Using PowerShell Launcher (Easiest)**
 ```powershell
 .\launch.ps1
 ```
-Double-click `launch.ps1` in the repository root, or run from PowerShell.
+Navigate to the extracted folder and double-click `launch.ps1`, or run from PowerShell.
 
 **Option 2: Direct Launch**
 ```bash

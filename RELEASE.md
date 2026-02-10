@@ -194,17 +194,22 @@ A standalone Windows desktop application for bulk downloading Slooh astronomical
    Or download from: https://ironpython.net/
 
 2. **Download this release**:
-   - Download the Source code (zip) below
-   - Extract to desired location
+   - Download `SloohDownloader-vX.X.X.zip` from the Assets section below
+   - **Do not** download "Source code" - use the SloohDownloader ZIP file
 
-3. **Launch the application**:
+3. **Extract to your Documents folder**:
+   - Right-click the ZIP → **Extract All**
+   - Recommended location: `C:\Users\YourName\Documents\SloohDownloader`
+   - Choose any folder where you have write access (avoid Program Files)
+
+4. **Launch the application**:
+   - Navigate to the extracted folder
+   - Double-click `launch.ps1` to launch
+   
+   Or from PowerShell:
    ```powershell
-   cd SloohDownloader
+   cd C:\Users\YourName\Documents\SloohDownloader
    .\launch.ps1
-   ```
-   Or navigate to `SloohDownloader\src` and run:
-   ```powershell
-   ipy gui_main.py
    ```
 
 ### First-Time Setup

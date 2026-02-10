@@ -32,30 +32,53 @@ ipy --version
 
 You should see something like: `IronPython 3.4.0`
 
-## Quick Start (5 Minutes)
+## Installation
 
-### Step 1: Launch the Application
+### Step 1: Download the Application
+
+1. Go to the **[Releases page](https://github.com/labstercam/SloohDownloader/releases)**
+2. Download the latest `SloohDownloader-vX.X.X.zip` file
+3. Save it to your Downloads folder
+
+### Step 2: Extract the Files
+
+1. **Right-click** the downloaded ZIP file
+2. Select **Extract All...**
+3. Choose a location where you have write access:
+   - **Recommended**: `C:\Users\YourName\Documents\SloohDownloader`
+   - **Also good**: `C:\Users\YourName\Desktop\SloohDownloader`
+   - **Avoid**: `C:\Program Files\` (requires admin rights)
+4. Click **Extract**
+
+### Step 3: Launch the Application
 
 **Option 1: Using PowerShell Launcher (Easiest)**
+1. Navigate to the extracted folder
+2. Double-click `launch.ps1`
+3. If prompted about execution policy, click **Run anyway**
+
+**Option 2: From PowerShell**
 ```powershell
+cd C:\Users\YourName\Documents\SloohDownloader
 .\launch.ps1
 ```
-Double-click `launch.ps1` in the repository root, or run from PowerShell.
 
-**Option 2: Direct Launch**
+**Option 3: Direct Launch**
 ```powershell
 cd SloohDownloader\src
 ipy gui_main.py
 ```
 
-**Option 3: Create Desktop Shortcut**
-1. Right-click `launch.ps1` in the repository root
+**Option 4: Create Desktop Shortcut**
+1. Right-click `launch.ps1`
 2. Select **Send to** → **Desktop (create shortcut)**
 3. Double-click the shortcut anytime to launch
 
 A Windows Forms GUI will appear with tabs: Download, Configuration, History, Statistics, Advanced.
 
-### Step 2: Configure Your Settings
+## Quick Start (First Time Setup)
+
+### Step 1: Configure Your Settings
 
 1. **Click on the Configuration Tab**
 
@@ -74,7 +97,7 @@ A Windows Forms GUI will appear with tabs: Download, Configuration, History, Sta
    - Template: `{object}/{telescope}/{format}` (organizes by object, then telescope)
    - Click **Save Configuration**
 
-### Step 3: Login to Slooh
+### Step 2: Login to Slooh
 
 1. **Go back to Download Tab**
 
