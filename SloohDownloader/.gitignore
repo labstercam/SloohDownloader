@@ -1,13 +1,19 @@
 # Configuration file (contains credentials)
 config/config.json
 
-# Database files
+# Download tracker files (contains download history)
+data/download_tracker.json
+data/download_tracker.json.backup
+data/download_tracker_backup_*.json
+
+# Database files (legacy - if SQLite was used)
 data/downloads.db
 data/downloads.db-journal
 data/backups/*.db
 
 # Log files
-data/logs/*.log
+logs/*.log
+logs/*.txt
 
 # Python cache
 *.pyc

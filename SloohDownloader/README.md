@@ -71,10 +71,21 @@ Download from: https://ironpython.net/
 
 ### 2. Run the Application
 
+**Option 1: Using PowerShell Launcher (Easiest)**
+```powershell
+.\launch.ps1
+```
+Double-click `launch.ps1` in the repository root, or run from PowerShell.
+
+**Option 2: Direct Launch**
 ```bash
 cd SloohDownloader\src
 ipy gui_main.py
 ```
+
+**Option 3: Create Desktop Shortcut**
+- Right-click `launch.ps1` → **Send to** → **Desktop (create shortcut)**
+- Double-click the shortcut anytime to launch
 
 The GUI will launch with a modern Windows Forms interface.
 
@@ -211,24 +222,29 @@ Use **Force Redownload** checkbox when:
 ## Project Structure
 
 ```
-SloohDownloader/
-├── README.md                   # This file
-├── QUICKSTART.md              # Quick start guide
-├── config/
-│   └── config.json            # Configuration (created on first run)
-├── data/
-│   ├── download_tracker.json  # Download history (auto-created)
-│   └── logs/                  # Log files
-└── src/
-    ├── gui_main.py           # Main GUI application - START HERE
-    ├── config_manager.py     # Configuration handling
-    ├── download_tracker.py   # JSON-based download tracking
-    ├── logger.py             # Logging system with GUI callbacks
-    ├── slooh_client.py       # Slooh API client
-    ├── download_manager.py   # Multi-threaded downloader
-    ├── batch_manager.py      # Batch coordinator
-    ├── file_organizer.py     # File organization
-    └── report_generator.py   # Export reports (CSV, HTML)
+Repository Root/
+├── launch.ps1                  # PowerShell launcher (double-click to start!)
+├── README.md                   # Project overview
+├── QUICKSTART.md               # Quick start guide  
+├── RELEASE.md                  # Release documentation
+└── SloohDownloader/
+    ├── README.md               # This file - complete documentation
+    ├── QUICKSTART.md           # Detailed quick start guide
+    ├── config/
+    │   └── config.json         # Configuration (created on first run)
+    ├── data/
+    │   ├── download_tracker.json  # Download history (auto-created)
+    │   └── logs/               # Log files
+    └── src/
+        ├── gui_main.py         # Main GUI application
+        ├── config_manager.py   # Configuration handling
+        ├── download_tracker.py # JSON-based download tracking
+        ├── logger.py           # Logging system with GUI callbacks
+        ├── slooh_client.py     # Slooh API client
+        ├── download_manager.py # Multi-threaded downloader
+        ├── batch_manager.py    # Batch coordinator
+        ├── file_organizer.py   # File organization
+        └── report_generator.py # Export reports (CSV, HTML)
 ```
 
 ## Application Status

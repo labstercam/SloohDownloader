@@ -36,10 +36,22 @@ You should see something like: `IronPython 3.4.0`
 
 ### Step 1: Launch the Application
 
+**Option 1: Using PowerShell Launcher (Easiest)**
+```powershell
+.\launch.ps1
+```
+Double-click `launch.ps1` in the repository root, or run from PowerShell.
+
+**Option 2: Direct Launch**
 ```powershell
 cd SloohDownloader\src
 ipy gui_main.py
 ```
+
+**Option 3: Create Desktop Shortcut**
+1. Right-click `launch.ps1` in the repository root
+2. Select **Send to** → **Desktop (create shortcut)**
+3. Double-click the shortcut anytime to launch
 
 A Windows Forms GUI will appear with tabs: Download, Configuration, History, Statistics, Advanced.
 
@@ -184,9 +196,10 @@ Use the **Force Redownload** checkbox (Advanced Tab) when:
 - Try full path: `C:\Program Files\IronPython 3.4\ipy.exe`
 
 ### "GUI doesn't launch"
+- Try using `.\launch.ps1` from repository root (recommended)
 - Check IronPython version: `ipy --version` (need 3.4+)
 - Verify .NET Framework 4.6.2+ is installed
-- Run from correct directory: `SloohDownloader\src\`
+- If running directly: Ensure you're in `SloohDownloader\src\` directory
 - Check console for error messages
 
 ### "Login failed" or "Authentication failed"

@@ -7,6 +7,16 @@ A standalone Windows desktop application for **bulk downloading** your Slooh ast
 ![.NET Framework](https://img.shields.io/badge/.NET-4.6.2%2B-purple)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
 
+## Screenshots
+
+### Main Download Window
+![Main Download Window](SloohDownloader/screenshots/main-window.png)
+*Download controls, filters, and real-time progress tracking*
+
+### Configuration Tab
+![Configuration Tab](SloohDownloader/screenshots/config-tab.png)
+*Settings for credentials, folders, and download options*
+
 ## What Is This?
 
 Slooh Image Downloader is a Windows application designed to help Slooh users **download all their astronomical images in bulk** for local storage and management on their PC. The recommended workflow is to **periodically download recent images by date** to maintain a complete local archive of all your Slooh observations.
@@ -68,10 +78,22 @@ Slooh Image Downloader is a Windows application designed to help Slooh users **d
 2. **Clone or Download this repository**
 
 3. **Launch the application**:
+   
+   **Option 1: Using PowerShell Launcher (Recommended)**
+   ```powershell
+   .\launch.ps1
+   ```
+   
+   **Option 2: Direct Launch**
    ```powershell
    cd SloohDownloader\src
    ipy gui_main.py
    ```
+   
+   **Option 3: Create Desktop Shortcut**
+   - Right-click `launch.ps1` → **Send to** → **Desktop (create shortcut)**
+   - Or right-click `launch.ps1` → **Create shortcut** → Move to Desktop
+   - Double-click the shortcut to launch anytime
 
 ### First-Time Setup (2 minutes)
 
@@ -108,18 +130,23 @@ Slooh Image Downloader is a Windows application designed to help Slooh users **d
 
 ```
 SloohDownloader/
-├── README.md                   # Full documentation
-├── QUICKSTART.md              # Quick start guide
-├── src/
-│   ├── gui_main.py           # Main GUI application ← START HERE
-│   ├── config_manager.py     # Configuration handling
-│   ├── download_tracker.py   # Download tracking
-│   ├── logger.py             # Logging system
-│   ├── slooh_client.py       # Slooh API client
-│   ├── download_manager.py   # Multi-threaded downloader
-│   ├── batch_manager.py      # Batch coordinator
-│   ├── file_organizer.py     # File organization
-│   └── report_generator.py   # Export reports
+├── launch.ps1                # PowerShell launcher script ← EASY START
+├── README.md                 # This file - project overview
+├── QUICKSTART.md             # Quick start guide
+├── RELEASE.md                # Release documentation
+├── SloohDownloader/
+│   ├── README.md             # Full documentation
+│   ├── QUICKSTART.md         # Step-by-step quick start guide
+│   └── src/
+│       ├── gui_main.py       # Main GUI application
+│       ├── config_manager.py     # Configuration handling
+│       ├── download_tracker.py   # Download tracking
+│       ├── logger.py             # Logging system
+│       ├── slooh_client.py       # Slooh API client
+│       ├── download_manager.py   # Multi-threaded downloader
+│       ├── batch_manager.py      # Batch coordinator
+│       ├── file_organizer.py     # File organization
+│       └── report_generator.py   # Export reports
 ├── config/
 │   └── config.json           # Configuration (auto-created)
 └── data/

@@ -63,7 +63,7 @@ Stage 1 of the Slooh Downloader IronPython utility is complete with the followin
 ### Quick Test (Recommended)
 
 ```batch
-cd c:\Users\AstroPC\Documents\GitHub\Slooh.Explorer.Enhanced\SloohDownloader
+cd c:\Users\AstroPC\Documents\GitHub\SloohDownloader
 run_tests.bat
 ```
 
