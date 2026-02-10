@@ -1,0 +1,29 @@
+# Configuration file (contains credentials)
+config/config.json
+
+# Database files
+data/downloads.db
+data/downloads.db-journal
+data/backups/*.db
+
+# Log files
+data/logs/*.log
+
+# Python cache
+*.pyc
+__pycache__/
+
+# IDE files
+.vs/
+.vscode/
+*.suo
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+~$*

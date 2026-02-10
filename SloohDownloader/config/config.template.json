@@ -1,0 +1,50 @@
+{
+  "slooh": {
+    "username": "",
+    "password": "",
+    "base_url": "https://app.slooh.com"
+  },
+  "download": {
+    "root_folder": "C:\\Slooh\\Images",
+    "batch_size": 50,
+    "concurrent_downloads": 5,
+    "rate_limit_per_minute": 30,
+    "retry_attempts": 3,
+    "retry_delay_seconds": 5,
+    "request_timeout_seconds": 300
+  },
+  "folders": {
+    "fits_template": "{object}\\{telescope}\\FITS\\{telescope}_{filename}",
+    "png_template": "{object}\\{telescope}\\PNG\\{telescope}_{filename}",
+    "jpg_template": "{object}\\{telescope}\\JPG\\{telescope}_{filename}",
+    "sanitize_names": true
+  },
+  "database": {
+    "path": "data\\downloads.db",
+    "backup_path": "data\\backups",
+    "auto_backup": true,
+    "backup_interval_hours": 24
+  },
+  "logging": {
+    "enabled": true,
+    "log_folder": "data\\logs",
+    "log_level": "INFO",
+    "max_log_files": 10,
+    "max_log_size_mb": 10
+  },
+  "gui": {
+    "theme": "default",
+    "show_notifications": true,
+    "minimize_to_tray": true,
+    "auto_start_on_open": false
+  },
+  "filters": {
+    "download_fits": true,
+    "download_png": true,
+    "download_jpg": true,
+    "min_date": "",
+    "max_date": "",
+    "telescopes": [],
+    "objects": []
+  }
+}
