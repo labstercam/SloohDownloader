@@ -92,17 +92,21 @@ No need to configure PATH environment variables!
 
 ### 3. Run the Application
 
-**Option 1: Using PowerShell Launcher (Easiest)**
+**Option 1: Create Desktop Shortcut (Recommended)**
+
+Run ```create-shortcut.ps1``` by right-clicking it and selecting 'Run with PowerShell'
+or from powershell console
+```powershell
+powershell -ExecutionPolicy Bypass -File .\create-shortcut.ps1
+```
+Then double-click the **Slooh Image Downloader** icon on your desktop!
+
+**Option 2: Using PowerShell Launcher**
 ```powershell
 .\launch.ps1
 ```
 Navigate to the extracted folder and double-click `launch.ps1`, or run from PowerShell.
 
-**Option 2: Create Desktop Shortcut (Recommended)**
-```powershell
-powershell -ExecutionPolicy Bypass -File .\create-shortcut.ps1
-```
-Then double-click the **Slooh Image Downloader** icon on your desktop!
 
 **Option 3: Direct Launch**
 ```bash
