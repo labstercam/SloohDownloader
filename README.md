@@ -93,21 +93,20 @@ Slooh Image Downloader is a Windows application designed to help Slooh users **d
    - Or any folder where you have write access (avoid Program Files)
 
 4. **Launch the application**:
+
+   **Option 1: Using Desktop Shortcut (Recommended)**
+   - Create shortcut - run create-shortcut.ps1 by right clicking and select 'Run with Powershell'
+   - Shortcut 'Slooh Image Downloaded' will appear on your Desktop
+   - Double-click the desktop icon anytime to launch. May take 30s or so to load IronPython
    
-   **Option 1: Using PowerShell Launcher (Recommended)**
+   **Option 2: Using PowerShell Launcher**
    - Navigate to the extracted folder
-   - Double-click `launch.ps1`
+   - Right-click  `launch.ps1` and 'Run with Powershell'
    - Or open PowerShell and run:
      ```powershell
      cd C:\Users\YourName\Documents\SloohDownloader
      .\launch.ps1
-     ```
-   
-   **Option 2: Create Desktop Shortcut (Easiest)**
-   - Open PowerShell in the extracted folder
-   - Run: `powershell -ExecutionPolicy Bypass -File .\create-shortcut.ps1`
-   - Double-click the desktop icon anytime to launch
-   
+     ```   
    **Option 3: Direct Launch**
    ```powershell
    cd SloohDownloader\src
