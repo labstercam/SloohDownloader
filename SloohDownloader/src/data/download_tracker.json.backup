@@ -272,6 +272,22 @@
       "image_type": "FITS",
       "object_name": "Messier 43 "
     },
+    "17398217:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Swan Nebula (M17)",
+      "filename": "Chile Two_m17_20260211_084121_0_vcvp4y_r_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398217",
+      "mission_id": "3888810",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Swan Nebula (M17)\\Chile Two\\FITS\\Chile Two_m17_20260211_084121_0_vcvp4y_r_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0840_m17/m17_20260211_084121_0_vcvp4y_r_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17274794:png": {
       "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/01/23/0810_ngc6357/ngc6357_20260123_081227_0_owfibz_lrgb.png?rand=1770716204.826",
       "mission_id": "",
@@ -735,6 +751,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Horsehead Nebula (Barnard 33)"
+    },
+    "17399133:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Crab Nebula (M1)",
+      "filename": "Canary Four_m1_20260211_200920_0_kosmo9_m.png",
+      "photoroll_position": 3,
+      "image_id": "17399133",
+      "mission_id": "",
+      "telescope_name": "Canary Four",
+      "customer_image_id": "14977876",
+      "file_path": "D:\\Slooh\\Crab Nebula (M1)\\Canary Four\\PNG\\Canary Four_m1_20260211_200920_0_kosmo9_m.png",
+      "download_url": "https://polaris2.slooh.com/teide/4/highmag/2026/02/11/2010_m1/m1_20260211_200920_0_kosmo9_m.png?rand=1770841714.2162",
+      "file_size": 1863338,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17289722:png": {
       "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/01/25/1505_ngc5128/ngc5128_20260125_150517_0_q6b5ow_l.png?rand=1770715661.2908",
@@ -1279,6 +1311,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Lambda Centauri Nebula (IC 2944)"
+    },
+    "17393720:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Dark Doodad Nebula (DCLD 301.0-08.6)",
+      "filename": "Chile Two_dcld301.0-08.6_20260211_075501_0_kklnd8_l.png",
+      "photoroll_position": 27,
+      "image_id": "17393720",
+      "mission_id": "",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "14976273",
+      "file_path": "D:\\Slooh\\Dark Doodad Nebula (DCLD 301.0-08.6)\\Chile Two\\PNG\\Chile Two_dcld301.0-08.6_20260211_075501_0_kklnd8_l.png",
+      "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/02/11/0755_dcld301.0-08.6/dcld301.0-08.6_20260211_075501_0_kklnd8_l.png?rand=1770841714.4359",
+      "file_size": 1176095,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17277336:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/23/0705_ngc3372/ngc3372_20260123_070715_0_wsqlnu_g_cal.fit",
@@ -2832,6 +2880,22 @@
       "image_type": "FITS",
       "object_name": "Eta Carinae Nebula (NGC 3372)"
     },
+    "17392811:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Spiral Galaxy M100",
+      "filename": "Chile One_m100_20260211_054303_0_gaqzrp_m.png",
+      "photoroll_position": 30,
+      "image_id": "17392811",
+      "mission_id": "",
+      "telescope_name": "Chile One",
+      "customer_image_id": "14975393",
+      "file_path": "D:\\Slooh\\Spiral Galaxy M100\\Chile One\\PNG\\Chile One_m100_20260211_054303_0_gaqzrp_m.png",
+      "download_url": "https://polaris2.slooh.com/chile/1/highmag/2026/02/11/0540_m100/m100_20260211_054303_0_gaqzrp_m.png?rand=1770841714.4558",
+      "file_size": 2808458,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17309591:FITS": {
       "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/01/28/1715_ngc4038/ngc4038_20260128_171634_0_uwhmgv_g_cal.fit",
       "mission_id": "3843866",
@@ -3056,6 +3120,22 @@
       "image_type": "FITS",
       "object_name": "Dark Doodad Nebula (DCLD 301.0-08.6)"
     },
+    "17398378:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Thor's Helmet (NGC 2359)",
+      "filename": "Australia One_ngc2359_20260211_135128_0_lda6up_g_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398378",
+      "mission_id": "3845271",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\FITS\\Australia One_ngc2359_20260211_135128_0_lda6up_g_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1350_ngc2359/ngc2359_20260211_135128_0_lda6up_g_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17263848:png": {
       "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/01/21/1305_ngc2359/ngc2359_20260121_130749_0_nuvyh1_lrgb.png?rand=1770716741.2098",
       "mission_id": "",
@@ -3231,6 +3311,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Sombrero Galaxy (M104)"
+    },
+    "17398295:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Omega Centauri (NGC 5139)",
+      "filename": "Chile Two_ngc5139_20260211_085751_0_dj8y39_g_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398295",
+      "mission_id": "3888813",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Omega Centauri (NGC 5139)\\Chile Two\\FITS\\Chile Two_ngc5139_20260211_085751_0_dj8y39_g_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0855_ngc5139/ngc5139_20260211_085751_0_dj8y39_g_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17284046:FITS": {
       "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/01/24/1320_barnard33/barnard33_20260124_132202_0_0q8bne_b_cal.fit",
@@ -3697,20 +3793,20 @@
       "object_name": "Thor's Helmet (NGC 2359)"
     },
     "17386675:png": {
-      "image_type": "png",
-      "session_id": 3,
-      "object_name": "Thor's Helmet (NGC 2359)",
-      "filename": "Australia One_ngc2359_20260210_143805_0_pvnrrt_lrgb.png",
-      "photoroll_position": 1,
-      "image_id": "17386675",
+      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/10/1435_ngc2359/ngc2359_20260210_143805_0_pvnrrt_lrgb.png?rand=1770750534.9832",
       "mission_id": "",
       "telescope_name": "Australia One",
-      "customer_image_id": "14970450",
-      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\PNG\\Australia One_ngc2359_20260210_143805_0_pvnrrt_lrgb.png",
-      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/10/1435_ngc2359/ngc2359_20260210_143805_0_pvnrrt_lrgb.png?rand=1770750534.9832",
       "file_size": 2118685,
+      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\PNG\\Australia One_ngc2359_20260210_143805_0_pvnrrt_lrgb.png",
+      "image_id": "17386675",
+      "download_date": "2026-02-11T08:09:22.683000",
+      "session_id": 3,
+      "customer_image_id": "14970450",
+      "filename": "Australia One_ngc2359_20260210_143805_0_pvnrrt_lrgb.png",
+      "photoroll_position": 1,
       "md5_hash": "",
-      "download_date": "2026-02-11T08:09:22.683000"
+      "image_type": "png",
+      "object_name": "Thor's Helmet (NGC 2359)"
     },
     "17310011:png": {
       "download_url": "https://polaris2.slooh.com/teide/3/highmag/2026/01/28/2220_m42/m42_20260128_221952_0_bnuasj_m.png?rand=1770720163.2202",
@@ -4272,6 +4368,22 @@
       "image_type": "png",
       "object_name": "Crab Nebula (M1)"
     },
+    "17396510:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Thor's Helmet (NGC 2359)",
+      "filename": "Australia One_ngc2359_20260211_135227_0_dup9qf_lrgb.png",
+      "photoroll_position": 4,
+      "image_id": "17396510",
+      "mission_id": "",
+      "telescope_name": "Australia One",
+      "customer_image_id": "14977145",
+      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\PNG\\Australia One_ngc2359_20260211_135227_0_dup9qf_lrgb.png",
+      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/11/1350_ngc2359/ngc2359_20260211_135227_0_dup9qf_lrgb.png?rand=1770841714.2211",
+      "file_size": 2114407,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17335907:png": {
       "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/02/1345_fullmoon/fullmoon_20260202_134520_0_jrtzki_h.png?rand=1770719424.0449",
       "mission_id": "",
@@ -4351,6 +4463,38 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Horsehead Nebula (Barnard 33)"
+    },
+    "17396366:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Thor's Helmet (NGC 2359)",
+      "filename": "Australia One_ngc2359_20260211_133454_0_0mxq2h_l.png",
+      "photoroll_position": 7,
+      "image_id": "17396366",
+      "mission_id": "",
+      "telescope_name": "Australia One",
+      "customer_image_id": "14977108",
+      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\PNG\\Australia One_ngc2359_20260211_133454_0_0mxq2h_l.png",
+      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/11/1335_ngc2359/ngc2359_20260211_133454_0_0mxq2h_l.png?rand=1770841714.296",
+      "file_size": 1473065,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
+    "17398046:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Horsehead Nebula (Barnard 33)",
+      "filename": "Australia One_barnard33_20260211_120044_0_5copkk_r_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398046",
+      "mission_id": "3845249",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\FITS\\Australia One_barnard33_20260211_120044_0_5copkk_r_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1200_barnard33/barnard33_20260211_120044_0_5copkk_r_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17293907:FITS": {
       "download_url": "https://polaris.slooh.com/teide/3/highmag/2026/01/25/2105_m42/m42_20260125_210725_3_plpbcf_m_cal.fit",
@@ -4527,6 +4671,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Caldwell 39 (NGC 2392)"
+    },
+    "17398374:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Thor's Helmet (NGC 2359)",
+      "filename": "Australia One_ngc2359_20260211_134942_0_zhkvvh_l_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398374",
+      "mission_id": "3845271",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\FITS\\Australia One_ngc2359_20260211_134942_0_zhkvvh_l_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1350_ngc2359/ngc2359_20260211_134942_0_zhkvvh_l_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17263265:png": {
       "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/01/21/1155_barnard33/barnard33_20260121_115720_0_jnxacc_lrgb.png?rand=1770716741.2946",
@@ -4815,6 +4975,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Crab Nebula (M1)"
+    },
+    "17397970:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Dark Doodad Nebula (DCLD 301.0-08.6)",
+      "filename": "Chile Two_dcld301.0-08.6_20260211_075458_0_qa2udj_l_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17397970",
+      "mission_id": "3888801",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Dark Doodad Nebula (DCLD 301.0-08.6)\\Chile Two\\FITS\\Chile Two_dcld301.0-08.6_20260211_075458_0_qa2udj_l_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0755_dcld301.0-08.6/dcld301.0-08.6_20260211_075458_0_qa2udj_l_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17221628:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/15/0740_ngc4568-4567/ngc4568-4567_20260115_074210_0_pdd8qv_g_cal.fit",
@@ -5264,6 +5440,22 @@
       "image_type": "FITS",
       "object_name": "Centaurus A (NGC 5128)"
     },
+    "17398007:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Inkspot Nebula (Barnard 86)",
+      "filename": "Chile Two_barnard86_20260211_080121_0_5h9egp_r_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398007",
+      "mission_id": "3888802",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Inkspot Nebula (Barnard 86)\\Chile Two\\FITS\\Chile Two_barnard86_20260211_080121_0_5h9egp_r_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0800_barnard86/barnard86_20260211_080121_0_5h9egp_r_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17237103:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/17/0520_m93/m93_20260117_052031_0_heierk_r_cal.fit",
       "mission_id": "3886299",
@@ -5391,6 +5583,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Pleiades Star Cluster (M45)"
+    },
+    "17398223:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Swan Nebula (M17)",
+      "filename": "Chile Two_m17_20260211_084208_0_hkjz8l_g_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398223",
+      "mission_id": "3888810",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Swan Nebula (M17)\\Chile Two\\FITS\\Chile Two_m17_20260211_084208_0_hkjz8l_g_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0840_m17/m17_20260211_084208_0_hkjz8l_g_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17224243:png": {
       "download_url": "https://polaris2.slooh.com/teide/4/highmag/2026/01/15/2315_lambdaorionis/lambdaorionis_20260115_231406_0_t9vuzd_m.png?rand=1770713873.5785",
@@ -5745,20 +5953,20 @@
       "object_name": "Centaurus A (NGC 5128)"
     },
     "17385681:png": {
-      "image_type": "png",
-      "session_id": 3,
-      "object_name": "Velvet Star Cluster (M46)",
-      "filename": "Australia One_m46_20260210_123451_0_ae31wj_l.png",
-      "photoroll_position": 6,
-      "image_id": "17385681",
+      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/10/1235_m46/m46_20260210_123451_0_ae31wj_l.png?rand=1770750535.034",
       "mission_id": "",
       "telescope_name": "Australia One",
-      "customer_image_id": "14970179",
-      "file_path": "D:\\Slooh\\Velvet Star Cluster (M46)\\Australia One\\PNG\\Australia One_m46_20260210_123451_0_ae31wj_l.png",
-      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/10/1235_m46/m46_20260210_123451_0_ae31wj_l.png?rand=1770750535.034",
       "file_size": 664467,
+      "file_path": "D:\\Slooh\\Velvet Star Cluster (M46)\\Australia One\\PNG\\Australia One_m46_20260210_123451_0_ae31wj_l.png",
+      "image_id": "17385681",
+      "download_date": "2026-02-11T08:09:22.683000",
+      "session_id": 3,
+      "customer_image_id": "14970179",
+      "filename": "Australia One_m46_20260210_123451_0_ae31wj_l.png",
+      "photoroll_position": 6,
       "md5_hash": "",
-      "download_date": "2026-02-11T08:09:22.683000"
+      "image_type": "png",
+      "object_name": "Velvet Star Cluster (M46)"
     },
     "17308642:png": {
       "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/01/28/1715_ngc4038/ngc4038_20260128_171505_0_kztygd_l.png?rand=1770720163.4084",
@@ -6112,6 +6320,22 @@
       "image_type": "FITS",
       "object_name": "Orion Nebula (M42)"
     },
+    "17397022:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Hubble's Variable Nebula (NGC 2261)",
+      "filename": "Chile Two_ngc2261_20260211_052623_0_levnzg_r_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17397022",
+      "mission_id": "3888771",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Hubble's Variable Nebula (NGC 2261)\\Chile Two\\FITS\\Chile Two_ngc2261_20260211_052623_0_levnzg_r_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0525_ngc2261/ngc2261_20260211_052623_0_levnzg_r_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17309481:png": {
       "download_url": "https://polaris2.slooh.com/teide/4/highmag/2026/01/28/2025_ngc7662/ngc7662_20260128_202704_0_9fynra_m.png?rand=1770720163.2687",
       "mission_id": "",
@@ -6191,6 +6415,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Horsehead Nebula (Barnard 33)"
+    },
+    "17392401:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Bennett 16 (NGC 1365)",
+      "filename": "Chile One_ngc1365_20260211_044016_0_rfyc1m_m.png",
+      "photoroll_position": 41,
+      "image_id": "17392401",
+      "mission_id": "",
+      "telescope_name": "Chile One",
+      "customer_image_id": "14975088",
+      "file_path": "D:\\Slooh\\Bennett 16 (NGC 1365)\\Chile One\\PNG\\Chile One_ngc1365_20260211_044016_0_rfyc1m_m.png",
+      "download_url": "https://polaris2.slooh.com/chile/1/highmag/2026/02/11/0440_ngc1365/ngc1365_20260211_044016_0_rfyc1m_m.png?rand=1770841714.7738",
+      "file_size": 3089642,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17221624:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/15/0740_ngc4568-4567/ngc4568-4567_20260115_074129_0_hhxsn6_r_cal.fit",
@@ -6495,6 +6735,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Sombrero Galaxy (M104)"
+    },
+    "17397996:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Dark Doodad Nebula (DCLD 301.0-08.6)",
+      "filename": "Chile Two_dcld301.0-08.6_20260211_075734_0_dwea5u_b_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17397996",
+      "mission_id": "3888801",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Dark Doodad Nebula (DCLD 301.0-08.6)\\Chile Two\\FITS\\Chile Two_dcld301.0-08.6_20260211_075734_0_dwea5u_b_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0755_dcld301.0-08.6/dcld301.0-08.6_20260211_075734_0_dwea5u_b_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17379910:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/09/0555_betacentauri/betacentauri_20260209_055433_0_e2ubh3_g_cal.fit",
@@ -7008,6 +7264,22 @@
       "image_type": "FITS",
       "object_name": "Rosette Nebula (NGC 2237)"
     },
+    "17394749:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Tarantula Nebula (NGC 2070)",
+      "filename": "Chile Two_ngc2070_20260211_011201_0_kmrrun_g_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17394749",
+      "mission_id": "3888720",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Tarantula Nebula (NGC 2070)\\Chile Two\\FITS\\Chile Two_ngc2070_20260211_011201_0_kmrrun_g_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0110_ngc2070/ngc2070_20260211_011201_0_kmrrun_g_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17278667:FITS": {
       "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/01/23/1310_barnard33/barnard33_20260123_131017_0_yeeghg_l_cal.fit",
       "mission_id": "3843320",
@@ -7055,6 +7327,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Southern Pinwheel Galaxy (M83)"
+    },
+    "17399140:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Crab Nebula (M1)",
+      "filename": "Canary Four_m1_20260211_201000_1_4em0oi_m.png",
+      "photoroll_position": 2,
+      "image_id": "17399140",
+      "mission_id": "",
+      "telescope_name": "Canary Four",
+      "customer_image_id": "14977896",
+      "file_path": "D:\\Slooh\\Crab Nebula (M1)\\Canary Four\\PNG\\Canary Four_m1_20260211_201000_1_4em0oi_m.png",
+      "download_url": "https://polaris2.slooh.com/teide/4/highmag/2026/02/11/2010_m1/m1_20260211_201000_1_4em0oi_m.png?rand=1770841714.2114",
+      "file_size": 1812770,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17293318:png": {
       "download_url": "https://polaris2.slooh.com/teide/3/highmag/2026/01/26/0635_messier56/messier56_20260126_063534_0_zhyyzr_m.png?rand=1770720681.6549",
@@ -7568,6 +7856,22 @@
       "image_type": "FITS",
       "object_name": "Flame Nebula (NGC 2024)"
     },
+    "17398342:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Thor's Helmet (NGC 2359)",
+      "filename": "Australia One_ngc2359_20260211_133638_0_2l5yqr_g_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398342",
+      "mission_id": "3845268",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\FITS\\Australia One_ngc2359_20260211_133638_0_2l5yqr_g_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1335_ngc2359/ngc2359_20260211_133638_0_2l5yqr_g_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17350432:png": {
       "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/02/05/0345_ngc2477/ngc2477_20260205_034446_0_or75am_l.png?rand=1770719423.5692",
       "mission_id": "",
@@ -7856,6 +8160,22 @@
       "image_type": "FITS",
       "object_name": "Centaurus A (NGC 5128)"
     },
+    "17394739:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Tarantula Nebula (NGC 2070)",
+      "filename": "Chile Two_ngc2070_20260211_011115_0_wsmrsh_r_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17394739",
+      "mission_id": "3888720",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Tarantula Nebula (NGC 2070)\\Chile Two\\FITS\\Chile Two_ngc2070_20260211_011115_0_wsmrsh_r_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0110_ngc2070/ngc2070_20260211_011115_0_wsmrsh_r_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17236233:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/17/0300_m37/m37_20260117_030110_0_jvhx7t_r_cal.fit",
       "mission_id": "3886271",
@@ -7871,6 +8191,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Gold Dust Star Cluster (M37)"
+    },
+    "17396942:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Giant Elliptical Galaxy (M87)",
+      "filename": "Chile One_m87_20260211_073742_0_svzsig_m_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17396942",
+      "mission_id": "3932416",
+      "telescope_name": "Chile One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Giant Elliptical Galaxy (M87)\\Chile One\\FITS\\Chile One_m87_20260211_073742_0_svzsig_m_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/1/highmag/2026/02/11/0735_m87/m87_20260211_073742_0_svzsig_m_cal.fit",
+      "file_size": 17547840,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17360646:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/06/0505_alphacanismajoris/alphacanismajoris_20260206_050809_0_99ng5f_r_cal.fit",
@@ -8288,6 +8624,22 @@
       "image_type": "FITS",
       "object_name": "Thor's Helmet (NGC 2359)"
     },
+    "17396486:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Thor's Helmet (NGC 2359)",
+      "filename": "Australia One_ngc2359_20260211_134945_0_eizzis_l.png",
+      "photoroll_position": 5,
+      "image_id": "17396486",
+      "mission_id": "",
+      "telescope_name": "Australia One",
+      "customer_image_id": "14977142",
+      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\PNG\\Australia One_ngc2359_20260211_134945_0_eizzis_l.png",
+      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/11/1350_ngc2359/ngc2359_20260211_134945_0_eizzis_l.png?rand=1770841714.226",
+      "file_size": 1393291,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17384371:FITS": {
       "download_url": "https://polaris.slooh.com/teide/4/highmag/2026/02/10/0615_m16/m16_20260210_061602_0_rd2mm7_m_cal.fit",
       "mission_id": "4086694",
@@ -8479,6 +8831,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Centaurus A (NGC 5128)"
+    },
+    "17392414:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Bennett 16 (NGC 1365)",
+      "filename": "Chile One_ngc1365_20260211_044218_0_tosupx_m.png",
+      "photoroll_position": 40,
+      "image_id": "17392414",
+      "mission_id": "",
+      "telescope_name": "Chile One",
+      "customer_image_id": "14975101",
+      "file_path": "D:\\Slooh\\Bennett 16 (NGC 1365)\\Chile One\\PNG\\Chile One_ngc1365_20260211_044218_0_tosupx_m.png",
+      "download_url": "https://polaris2.slooh.com/chile/1/highmag/2026/02/11/0440_ngc1365/ngc1365_20260211_044218_0_tosupx_m.png?rand=1770841714.7662",
+      "file_size": 2666083,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17199461:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/11/0805_m104/m104_20260111_080453_0_e0uvok_l_cal.fit",
@@ -8896,6 +9264,22 @@
       "image_type": "FITS",
       "object_name": "Caldwell 99"
     },
+    "17398407:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Baade's Window (NGC 6522)",
+      "filename": "Chile Two_ngc6522_20260211_090800_0_hrawwk_b_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398407",
+      "mission_id": "3888815",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Baade's Window (NGC 6522)\\Chile Two\\FITS\\Chile Two_ngc6522_20260211_090800_0_hrawwk_b_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0905_ngc6522/ngc6522_20260211_090800_0_hrawwk_b_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17287865:FITS": {
       "download_url": "https://polaris.slooh.com/teide/4/highmag/2026/01/25/0030_ngc2392/ngc2392_20260125_003201_0_hjby0p_m_cal.fit",
       "mission_id": "4084449",
@@ -9168,6 +9552,22 @@
       "image_type": "FITS",
       "object_name": "Messier 1 "
     },
+    "17394324:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Caldwell 39 (NGC 2392)",
+      "filename": "Canary Four_ngc2392_20260211_040458_0_ctueo4_m_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17394324",
+      "mission_id": "4086801",
+      "telescope_name": "Canary Four",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Caldwell 39 (NGC 2392)\\Canary Four\\FITS\\Canary Four_ngc2392_20260211_040458_0_ctueo4_m_cal.fit",
+      "download_url": "https://polaris.slooh.com/teide/4/highmag/2026/02/11/0405_ngc2392/ngc2392_20260211_040458_0_ctueo4_m_cal.fit",
+      "file_size": 17547840,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17311962:png": {
       "download_url": "https://polaris2.slooh.com/teide/4/highmag/2026/01/29/0620_ngc6826/ngc6826_20260129_062105_0_cgwlnb_m.png?rand=1770720163.1137",
       "mission_id": "",
@@ -9424,6 +9824,22 @@
       "image_type": "png",
       "object_name": "Bubble Nebula (NGC 7635)"
     },
+    "17392186:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Caldwell 39 (NGC 2392)",
+      "filename": "Canary Four_ngc2392_20260211_040726_0_cuymfn_m.png",
+      "photoroll_position": 42,
+      "image_id": "17392186",
+      "mission_id": "",
+      "telescope_name": "Canary Four",
+      "customer_image_id": "14974939",
+      "file_path": "D:\\Slooh\\Caldwell 39 (NGC 2392)\\Canary Four\\PNG\\Canary Four_ngc2392_20260211_040726_0_cuymfn_m.png",
+      "download_url": "https://polaris2.slooh.com/teide/4/highmag/2026/02/11/0405_ngc2392/ngc2392_20260211_040726_0_cuymfn_m.png?rand=1770841714.7788",
+      "file_size": 4756933,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17264149:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/21/0710_m104/m104_20260121_071209_0_aykhol_b_cal.fit",
       "mission_id": "3886700",
@@ -9471,6 +9887,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Aristotle's Star Cluster (M41)"
+    },
+    "17394277:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Baade's Window (NGC 6522)",
+      "filename": "Chile Two_ngc6522_20260211_090504_0_mvmmye_l.png",
+      "photoroll_position": 18,
+      "image_id": "17394277",
+      "mission_id": "",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "14976630",
+      "file_path": "D:\\Slooh\\Baade's Window (NGC 6522)\\Chile Two\\PNG\\Chile Two_ngc6522_20260211_090504_0_mvmmye_l.png",
+      "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/02/11/0905_ngc6522/ngc6522_20260211_090504_0_mvmmye_l.png?rand=1770841714.3692",
+      "file_size": 1567114,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17271984:png": {
       "download_url": "https://polaris2.slooh.com/teide/2/widefield/2026/01/22/2255_m1/m1_20260122_225702_0_sbwktd_lrgb.png?rand=1770716412.9816",
@@ -9568,6 +10000,22 @@
       "image_type": "png",
       "object_name": "California Nebula (NGC 1499)"
     },
+    "17397014:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Hubble's Variable Nebula (NGC 2261)",
+      "filename": "Chile Two_ngc2261_20260211_052513_0_r00kql_l_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17397014",
+      "mission_id": "3888771",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Hubble's Variable Nebula (NGC 2261)\\Chile Two\\FITS\\Chile Two_ngc2261_20260211_052513_0_r00kql_l_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0525_ngc2261/ngc2261_20260211_052513_0_r00kql_l_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17376135:png": {
       "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/02/09/0555_betacentauri/betacentauri_20260209_055349_0_lpko6q_r.png?rand=1770718975.6427",
       "mission_id": "",
@@ -9599,6 +10047,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Elliptical Galaxy M60"
+    },
+    "17398395:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Baade's Window (NGC 6522)",
+      "filename": "Chile Two_ngc6522_20260211_090628_0_edgu8q_r_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398395",
+      "mission_id": "3888815",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Baade's Window (NGC 6522)\\Chile Two\\FITS\\Chile Two_ngc6522_20260211_090628_0_edgu8q_r_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0905_ngc6522/ngc6522_20260211_090628_0_edgu8q_r_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17201996:FITS": {
       "download_url": "https://polaris.slooh.com/teide/4/highmag/2026/01/12/0600_m58/m58_20260112_060205_0_h2rbvs_m_cal.fit",
@@ -10192,6 +10656,22 @@
       "image_type": "FITS",
       "object_name": "Horsehead Nebula (Barnard 33)"
     },
+    "17398387:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Baade's Window (NGC 6522)",
+      "filename": "Chile Two_ngc6522_20260211_090458_0_4n014h_l_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398387",
+      "mission_id": "3888815",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Baade's Window (NGC 6522)\\Chile Two\\FITS\\Chile Two_ngc6522_20260211_090458_0_4n014h_l_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0905_ngc6522/ngc6522_20260211_090458_0_4n014h_l_cal.fit",
+      "file_size": 8395200,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17200007:png": {
       "download_url": "https://polaris2.slooh.com/teide/4/highmag/2026/01/11/2100_ngc7023/ngc7023_20260111_210214_0_s0fh6y_m.png?rand=1770714411.384",
       "mission_id": "",
@@ -10223,6 +10703,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Horsehead Nebula (Barnard 33)"
+    },
+    "17394149:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Eagle Nebula (M16)",
+      "filename": "Chile Two_m16_20260211_084744_0_msirea_lrgb.png",
+      "photoroll_position": 20,
+      "image_id": "17394149",
+      "mission_id": "",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "14976490",
+      "file_path": "D:\\Slooh\\Eagle Nebula (M16)\\Chile Two\\PNG\\Chile Two_m16_20260211_084744_0_msirea_lrgb.png",
+      "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/02/11/0845_m16/m16_20260211_084744_0_msirea_lrgb.png?rand=1770841714.3847",
+      "file_size": 3912051,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17262111:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/21/0205_m42/m42_20260121_020431_0_mlivnq_l_cal.fit",
@@ -10912,6 +11408,22 @@
       "image_type": "FITS",
       "object_name": "De Mairan's Nebula (M43)"
     },
+    "17396374:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Spiral Galaxy M100",
+      "filename": "Chile One_m100_20260211_054058_0_hw5kfh_m_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17396374",
+      "mission_id": "3932393",
+      "telescope_name": "Chile One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Spiral Galaxy M100\\Chile One\\FITS\\Chile One_m100_20260211_054058_0_hw5kfh_m_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/1/highmag/2026/02/11/0540_m100/m100_20260211_054058_0_hw5kfh_m_cal.fit",
+      "file_size": 17547840,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17262224:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/21/0225_m42/m42_20260121_022426_0_u4leml_l_cal.fit",
       "mission_id": "3886643",
@@ -11087,6 +11599,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Thor's Helmet (NGC 2359)"
+    },
+    "17394074:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Swan Nebula (M17)",
+      "filename": "Chile Two_m17_20260211_083938_0_fimj5k_l.png",
+      "photoroll_position": 23,
+      "image_id": "17394074",
+      "mission_id": "",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "14976447",
+      "file_path": "D:\\Slooh\\Swan Nebula (M17)\\Chile Two\\PNG\\Chile Two_m17_20260211_083938_0_fimj5k_l.png",
+      "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/02/11/0840_m17/m17_20260211_083938_0_fimj5k_l.png?rand=1770841714.4064",
+      "file_size": 730557,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17250476:FITS": {
       "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/01/19/1200_barnard33/barnard33_20260119_120035_0_ilq1a4_r_cal.fit",
@@ -11409,20 +11937,20 @@
       "object_name": "Globular Star Cluster M68"
     },
     "17385466:png": {
-      "image_type": "png",
-      "session_id": 3,
-      "object_name": "Horsehead Nebula (Barnard 33)",
-      "filename": "Australia One_barnard33_20260210_121039_0_4aubwk_l.png",
-      "photoroll_position": 8,
-      "image_id": "17385466",
+      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/10/1210_barnard33/barnard33_20260210_121039_0_4aubwk_l.png?rand=1770750535.0499",
       "mission_id": "",
       "telescope_name": "Australia One",
-      "customer_image_id": "14970141",
-      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\PNG\\Australia One_barnard33_20260210_121039_0_4aubwk_l.png",
-      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/10/1210_barnard33/barnard33_20260210_121039_0_4aubwk_l.png?rand=1770750535.0499",
       "file_size": 1280934,
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\PNG\\Australia One_barnard33_20260210_121039_0_4aubwk_l.png",
+      "image_id": "17385466",
+      "download_date": "2026-02-11T08:09:22.683000",
+      "session_id": 3,
+      "customer_image_id": "14970141",
+      "filename": "Australia One_barnard33_20260210_121039_0_4aubwk_l.png",
+      "photoroll_position": 8,
       "md5_hash": "",
-      "download_date": "2026-02-11T08:09:22.683000"
+      "image_type": "png",
+      "object_name": "Horsehead Nebula (Barnard 33)"
     },
     "17375718:png": {
       "download_url": "https://polaris2.slooh.com/chile/1/highmag/2026/02/09/0325_m1/m1_20260209_032701_0_ejwtvc_m.png?rand=1770718975.7061",
@@ -11808,6 +12336,22 @@
       "image_type": "png",
       "object_name": "Orion Nebula (M42)"
     },
+    "17392472:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Caldwell 90 (NGC 2867)",
+      "filename": "Chile One_ngc2867_20260211_045110_0_dvo1tg_m.png",
+      "photoroll_position": 38,
+      "image_id": "17392472",
+      "mission_id": "",
+      "telescope_name": "Chile One",
+      "customer_image_id": "14975146",
+      "file_path": "D:\\Slooh\\Caldwell 90 (NGC 2867)\\Chile One\\PNG\\Chile One_ngc2867_20260211_045110_0_dvo1tg_m.png",
+      "download_url": "https://polaris2.slooh.com/chile/1/highmag/2026/02/11/0450_ngc2867/ngc2867_20260211_045110_0_dvo1tg_m.png?rand=1770841714.66",
+      "file_size": 4166927,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17305900:FITS": {
       "download_url": "https://polaris.slooh.com/teide/3/highmag/2026/01/27/2000_c-2025r2/c-2025r2_20260127_200310_0_5bhcnh_m_cal.fit",
       "mission_id": "4040965",
@@ -11873,20 +12417,20 @@
       "object_name": "Caldwell 95 (NGC 6025)"
     },
     "17386136:png": {
-      "image_type": "png",
-      "session_id": 3,
-      "object_name": "Thor's Helmet (NGC 2359)",
-      "filename": "Australia One_ngc2359_20260210_132933_0_d9znfh_l.png",
-      "photoroll_position": 4,
-      "image_id": "17386136",
+      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/10/1330_ngc2359/ngc2359_20260210_132933_0_d9znfh_l.png?rand=1770750535.0132",
       "mission_id": "",
       "telescope_name": "Australia One",
-      "customer_image_id": "14970281",
-      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\PNG\\Australia One_ngc2359_20260210_132933_0_d9znfh_l.png",
-      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/10/1330_ngc2359/ngc2359_20260210_132933_0_d9znfh_l.png?rand=1770750535.0132",
       "file_size": 1390112,
+      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\PNG\\Australia One_ngc2359_20260210_132933_0_d9znfh_l.png",
+      "image_id": "17386136",
+      "download_date": "2026-02-11T08:09:22.683000",
+      "session_id": 3,
+      "customer_image_id": "14970281",
+      "filename": "Australia One_ngc2359_20260210_132933_0_d9znfh_l.png",
+      "photoroll_position": 4,
       "md5_hash": "",
-      "download_date": "2026-02-11T08:09:22.683000"
+      "image_type": "png",
+      "object_name": "Thor's Helmet (NGC 2359)"
     },
     "17283571:png": {
       "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/01/24/1730_ngc5128/ngc5128_20260124_173224_0_cr0nv0_lrgb.png?rand=1770715877.9094",
@@ -12464,6 +13008,22 @@
       "image_type": "FITS",
       "object_name": "Horsehead Nebula (Barnard 33)"
     },
+    "17394608:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Caldwell 50 (NGC 2244)",
+      "filename": "Chile One_ngc2244_20260211_010010_0_vuengv_m_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17394608",
+      "mission_id": "3932337",
+      "telescope_name": "Chile One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Caldwell 50 (NGC 2244)\\Chile One\\FITS\\Chile One_ngc2244_20260211_010010_0_vuengv_m_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/1/highmag/2026/02/11/0100_ngc2244/ngc2244_20260211_010010_0_vuengv_m_cal.fit",
+      "file_size": 17547840,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17237621:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/17/0710_m66/m66_20260117_071209_0_qlndnx_b_cal.fit",
       "mission_id": "3886321",
@@ -12639,6 +13199,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Crab Nebula (M1)"
+    },
+    "17394207:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Omega Centauri (NGC 5139)",
+      "filename": "Chile Two_ngc5139_20260211_085545_0_q6chis_l.png",
+      "photoroll_position": 19,
+      "image_id": "17394207",
+      "mission_id": "",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "14976513",
+      "file_path": "D:\\Slooh\\Omega Centauri (NGC 5139)\\Chile Two\\PNG\\Chile Two_ngc5139_20260211_085545_0_q6chis_l.png",
+      "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/02/11/0855_ngc5139/ngc5139_20260211_085545_0_q6chis_l.png?rand=1770841714.3771",
+      "file_size": 1243391,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17268316:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/22/0230_ngc2070/ngc2070_20260122_023153_0_ijfga4_b_cal.fit",
@@ -13360,6 +13936,22 @@
       "image_type": "FITS",
       "object_name": "California Nebula (NGC 1499)"
     },
+    "17394952:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Horsehead Nebula (Barnard 33)",
+      "filename": "Australia One_barnard33_20260211_103018_0_iwgdbd_l.png",
+      "photoroll_position": 16,
+      "image_id": "17394952",
+      "mission_id": "",
+      "telescope_name": "Australia One",
+      "customer_image_id": "14976768",
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\PNG\\Australia One_barnard33_20260211_103018_0_iwgdbd_l.png",
+      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/11/1030_barnard33/barnard33_20260211_103018_0_iwgdbd_l.png?rand=1770841714.352",
+      "file_size": 1284850,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17218082:png": {
       "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/01/15/0740_ngc4568-4567/ngc4568-4567_20260115_074310_0_byjao1_lrgb.png?rand=1770714098.8237",
       "mission_id": "",
@@ -13456,6 +14048,22 @@
       "image_type": "FITS",
       "object_name": "Caldwell 50 (NGC 2244)"
     },
+    "17395645:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Horsehead Nebula (Barnard 33)",
+      "filename": "Australia One_barnard33_20260211_115944_0_gd0oqy_l.png",
+      "photoroll_position": 13,
+      "image_id": "17395645",
+      "mission_id": "",
+      "telescope_name": "Australia One",
+      "customer_image_id": "14976922",
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\PNG\\Australia One_barnard33_20260211_115944_0_gd0oqy_l.png",
+      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/11/1200_barnard33/barnard33_20260211_115944_0_gd0oqy_l.png?rand=1770841714.3299",
+      "file_size": 1269536,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17363828:png": {
       "download_url": "https://polaris2.slooh.com/teide/4/highmag/2026/02/06/2150_barnard33/barnard33_20260206_215102_0_w8mij6_m.png?rand=1770719199.8716",
       "mission_id": "",
@@ -13535,6 +14143,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Sirius (Alpha Canis Majoris)"
+    },
+    "17398287:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Omega Centauri (NGC 5139)",
+      "filename": "Chile Two_ngc5139_20260211_085540_0_u90k1b_l_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398287",
+      "mission_id": "3888813",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Omega Centauri (NGC 5139)\\Chile Two\\FITS\\Chile Two_ngc5139_20260211_085540_0_u90k1b_l_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0855_ngc5139/ngc5139_20260211_085540_0_u90k1b_l_cal.fit",
+      "file_size": 8395200,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17374998:png": {
       "download_url": "https://polaris2.slooh.com/teide/4/highmag/2026/02/08/2240_m1/m1_20260208_223916_0_vbyqjq_m.png?rand=1770719199.6077",
@@ -14176,6 +14800,22 @@
       "image_type": "FITS",
       "object_name": "Messier 1 "
     },
+    "17398343:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Thor's Helmet (NGC 2359)",
+      "filename": "Australia One_ngc2359_20260211_133738_0_yxjim8_b_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398343",
+      "mission_id": "3845268",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\FITS\\Australia One_ngc2359_20260211_133738_0_yxjim8_b_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1335_ngc2359/ngc2359_20260211_133738_0_yxjim8_b_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17261945:FITS": {
       "download_url": "https://polaris.slooh.com/teide/2/widefield/2026/01/20/2250_barnard33/barnard33_20260120_225114_0_ojjuqh_g_cal.fit",
       "mission_id": "3996191",
@@ -14255,6 +14895,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Comet C/2025 R2 (SWAN)"
+    },
+    "17398325:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Thor's Helmet (NGC 2359)",
+      "filename": "Australia One_ngc2359_20260211_133451_0_bu4zdq_l_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398325",
+      "mission_id": "3845268",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\FITS\\Australia One_ngc2359_20260211_133451_0_bu4zdq_l_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1335_ngc2359/ngc2359_20260211_133451_0_bu4zdq_l_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17303712:png": {
       "download_url": "https://polaris2.slooh.com/teide/4/highmag/2026/01/27/2205_messier1/messier1_20260127_220653_0_mpodj0_m.png?rand=1770720464.1878",
@@ -14464,6 +15120,22 @@
       "image_type": "FITS",
       "object_name": "Little Dumbbell Nebula (M76)"
     },
+    "17397030:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Hubble's Variable Nebula (NGC 2261)",
+      "filename": "Chile Two_ngc2261_20260211_052707_0_fqcogn_g_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17397030",
+      "mission_id": "3888771",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Hubble's Variable Nebula (NGC 2261)\\Chile Two\\FITS\\Chile Two_ngc2261_20260211_052707_0_fqcogn_g_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0525_ngc2261/ngc2261_20260211_052707_0_fqcogn_g_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17320748:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/30/0830_m7/m7_20260130_082957_0_dvro6x_l_cal.fit",
       "mission_id": "3887591",
@@ -14527,6 +15199,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Messier 1 "
+    },
+    "17398248:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Eagle Nebula (M16)",
+      "filename": "Chile Two_m16_20260211_084647_0_59aqoh_g_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398248",
+      "mission_id": "3888811",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Eagle Nebula (M16)\\Chile Two\\FITS\\Chile Two_m16_20260211_084647_0_59aqoh_g_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0845_m16/m16_20260211_084647_0_59aqoh_g_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17361059:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/06/0640_ngc3372/ngc3372_20260206_064209_0_innhgy_b_cal.fit",
@@ -14960,6 +15648,22 @@
       "image_type": "FITS",
       "object_name": "Eta Carinae Nebula (NGC 3372)"
     },
+    "17398050:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Horsehead Nebula (Barnard 33)",
+      "filename": "Australia One_barnard33_20260211_120229_0_euhbz2_b_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398050",
+      "mission_id": "3845249",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\FITS\\Australia One_barnard33_20260211_120229_0_euhbz2_b_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1200_barnard33/barnard33_20260211_120229_0_euhbz2_b_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17320787:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/30/0840_ngc5139/ngc5139_20260130_084124_0_xahsik_g_cal.fit",
       "mission_id": "3887593",
@@ -15279,6 +15983,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Elliptical Galaxy M59"
+    },
+    "17397771:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Horsehead Nebula (Barnard 33)",
+      "filename": "Australia One_barnard33_20260211_103013_0_rs4xhd_l_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17397771",
+      "mission_id": "3845231",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\FITS\\Australia One_barnard33_20260211_103013_0_rs4xhd_l_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1030_barnard33/barnard33_20260211_103013_0_rs4xhd_l_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17277334:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/23/0705_ngc3372/ngc3372_20260123_070635_0_c7w8p1_r_cal.fit",
@@ -15663,6 +16383,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Crab Nebula (M1)"
+    },
+    "17398376:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Thor's Helmet (NGC 2359)",
+      "filename": "Australia One_ngc2359_20260211_135042_0_perxu2_r_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398376",
+      "mission_id": "3845271",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\FITS\\Australia One_ngc2359_20260211_135042_0_perxu2_r_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1350_ngc2359/ngc2359_20260211_135042_0_perxu2_r_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17211839:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/14/0810_ngc4609/ngc4609_20260114_081047_0_0g13zv_r_cal.fit",
@@ -16192,6 +16928,22 @@
       "image_type": "FITS",
       "object_name": "Coalsack Cluster (NGC 4609)"
     },
+    "17394758:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Tarantula Nebula (NGC 2070)",
+      "filename": "Chile Two_ngc2070_20260211_011246_0_lvpdmu_b_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17394758",
+      "mission_id": "3888720",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Tarantula Nebula (NGC 2070)\\Chile Two\\FITS\\Chile Two_ngc2070_20260211_011246_0_lvpdmu_b_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0110_ngc2070/ngc2070_20260211_011246_0_lvpdmu_b_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17236090:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/17/0225_ngc1851/ngc1851_20260117_022555_0_izfndz_r_cal.fit",
       "mission_id": "3886264",
@@ -16272,6 +17024,22 @@
       "image_type": "FITS",
       "object_name": "Messier 83 "
     },
+    "17392064:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Canopus (Alpha Carinae)",
+      "filename": "Chile One_alphacarinae_20260211_034849_0_vsta8x_m.png",
+      "photoroll_position": 47,
+      "image_id": "17392064",
+      "mission_id": "",
+      "telescope_name": "Chile One",
+      "customer_image_id": "14974814",
+      "file_path": "D:\\Slooh\\Canopus (Alpha Carinae)\\Chile One\\PNG\\Chile One_alphacarinae_20260211_034849_0_vsta8x_m.png",
+      "download_url": "https://polaris2.slooh.com/chile/1/highmag/2026/02/11/0350_alphacarinae/alphacarinae_20260211_034849_0_vsta8x_m.png?rand=1770841714.9634",
+      "file_size": 1443999,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17365782:FITS": {
       "download_url": "https://polaris.slooh.com/teide/4/highmag/2026/02/06/2120_m1/m1_20260206_211957_1_ckpgqi_m_cal.fit",
       "mission_id": "4086183",
@@ -16351,6 +17119,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Horsehead Nebula (Barnard 33)"
+    },
+    "17394311:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Baade's Window (NGC 6522)",
+      "filename": "Chile Two_ngc6522_20260211_090827_0_irtiep_lrgb.png",
+      "photoroll_position": 17,
+      "image_id": "17394311",
+      "mission_id": "",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "14976696",
+      "file_path": "D:\\Slooh\\Baade's Window (NGC 6522)\\Chile Two\\PNG\\Chile Two_ngc6522_20260211_090827_0_irtiep_lrgb.png",
+      "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/02/11/0905_ngc6522/ngc6522_20260211_090827_0_irtiep_lrgb.png?rand=1770841714.3603",
+      "file_size": 3871832,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17278380:FITS": {
       "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/01/23/1010_m42/m42_20260123_101139_0_eg25fc_g_cal.fit",
@@ -16464,21 +17248,37 @@
       "image_type": "png",
       "object_name": "Elliptical Galaxy M60"
     },
-    "17385702:png": {
+    "17390939:png": {
       "image_type": "png",
-      "session_id": 3,
-      "object_name": "Velvet Star Cluster (M46)",
-      "filename": "Australia One_m46_20260210_123721_0_pkjasd_lrgb.png",
-      "photoroll_position": 5,
-      "image_id": "17385702",
+      "session_id": 4,
+      "object_name": "Caldwell 50 (NGC 2244)",
+      "filename": "Chile One_ngc2244_20260211_010129_0_4qizip_m.png",
+      "photoroll_position": 51,
+      "image_id": "17390939",
+      "mission_id": "",
+      "telescope_name": "Chile One",
+      "customer_image_id": "14973529",
+      "file_path": "D:\\Slooh\\Caldwell 50 (NGC 2244)\\Chile One\\PNG\\Chile One_ngc2244_20260211_010129_0_4qizip_m.png",
+      "download_url": "https://polaris2.slooh.com/chile/1/highmag/2026/02/11/0100_ngc2244/ngc2244_20260211_010129_0_4qizip_m.png?rand=1770841947.4226",
+      "file_size": 2902426,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
+    "17385702:png": {
+      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/10/1235_m46/m46_20260210_123721_0_pkjasd_lrgb.png?rand=1770750535.024",
       "mission_id": "",
       "telescope_name": "Australia One",
-      "customer_image_id": "14970186",
-      "file_path": "D:\\Slooh\\Velvet Star Cluster (M46)\\Australia One\\PNG\\Australia One_m46_20260210_123721_0_pkjasd_lrgb.png",
-      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/10/1235_m46/m46_20260210_123721_0_pkjasd_lrgb.png?rand=1770750535.024",
       "file_size": 1513283,
+      "file_path": "D:\\Slooh\\Velvet Star Cluster (M46)\\Australia One\\PNG\\Australia One_m46_20260210_123721_0_pkjasd_lrgb.png",
+      "image_id": "17385702",
+      "download_date": "2026-02-11T08:09:22.683000",
+      "session_id": 3,
+      "customer_image_id": "14970186",
+      "filename": "Australia One_m46_20260210_123721_0_pkjasd_lrgb.png",
+      "photoroll_position": 5,
       "md5_hash": "",
-      "download_date": "2026-02-11T08:09:22.683000"
+      "image_type": "png",
+      "object_name": "Velvet Star Cluster (M46)"
     },
     "17310014:png": {
       "download_url": "https://polaris2.slooh.com/teide/3/highmag/2026/01/28/2220_m42/m42_20260128_222110_2_vc94eh_m.png?rand=1770720163.2102",
@@ -16656,6 +17456,22 @@
       "image_type": "FITS",
       "object_name": "Eta Carinae Nebula (NGC 3372)"
     },
+    "17394691:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Sculptor Spiral Galaxy (NGC 300)",
+      "filename": "Chile One_ngc300_20260211_011035_0_m262cu_m_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17394691",
+      "mission_id": "3932339",
+      "telescope_name": "Chile One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Sculptor Spiral Galaxy (NGC 300)\\Chile One\\FITS\\Chile One_ngc300_20260211_011035_0_m262cu_m_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/1/highmag/2026/02/11/0110_ngc300/ngc300_20260211_011035_0_m262cu_m_cal.fit",
+      "file_size": 17547840,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17262544:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/21/0325_m42/m42_20260121_032545_0_9bcunc_r_cal.fit",
       "mission_id": "3886655",
@@ -16784,6 +17600,22 @@
       "image_type": "png",
       "object_name": "Thor's Helmet (NGC 2359)"
     },
+    "17398081:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Thor's Helmet (NGC 2359)",
+      "filename": "Australia One_ngc2359_20260211_121209_0_bywu4r_b_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398081",
+      "mission_id": "3845251",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\FITS\\Australia One_ngc2359_20260211_121209_0_bywu4r_b_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1210_ngc2359/ngc2359_20260211_121209_0_bywu4r_b_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17369107:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/07/0635_ngc3372/ngc3372_20260207_063709_0_venuao_b_cal.fit",
       "mission_id": "3888372",
@@ -16911,6 +17743,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Messier 42 "
+    },
+    "17395996:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Bennett 16 (NGC 1365)",
+      "filename": "Chile One_ngc1365_20260211_044012_0_6sxp3d_m_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17395996",
+      "mission_id": "3932381",
+      "telescope_name": "Chile One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Bennett 16 (NGC 1365)\\Chile One\\FITS\\Chile One_ngc1365_20260211_044012_0_6sxp3d_m_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/1/highmag/2026/02/11/0440_ngc1365/ngc1365_20260211_044012_0_6sxp3d_m_cal.fit",
+      "file_size": 17547840,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17294071:FITS": {
       "download_url": "https://polaris.slooh.com/teide/4/highmag/2026/01/26/0630_m57/m57_20260126_062941_0_d95yzq_m_cal.fit",
@@ -17071,6 +17919,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Whale Galaxy (NGC 4631)"
+    },
+    "17392599:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Caldwell 53 (NGC 3115)",
+      "filename": "Chile One_ngc3115_20260211_050952_0_90mwmm_m.png",
+      "photoroll_position": 36,
+      "image_id": "17392599",
+      "mission_id": "",
+      "telescope_name": "Chile One",
+      "customer_image_id": "14975234",
+      "file_path": "D:\\Slooh\\Caldwell 53 (NGC 3115)\\Chile One\\PNG\\Chile One_ngc3115_20260211_050952_0_90mwmm_m.png",
+      "download_url": "https://polaris2.slooh.com/chile/1/highmag/2026/02/11/0510_ngc3115/ngc3115_20260211_050952_0_90mwmm_m.png?rand=1770841714.5847",
+      "file_size": 5275650,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17326120:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/31/0855_ngc6522/ngc6522_20260131_085444_0_c8ow9v_l_cal.fit",
@@ -17263,6 +18127,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Emission Nebula NGC 3199 (NGC  3199)"
+    },
+    "17396066:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Caldwell 90 (NGC 2867)",
+      "filename": "Chile One_ngc2867_20260211_045107_0_4kwz1z_m_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17396066",
+      "mission_id": "3932383",
+      "telescope_name": "Chile One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Caldwell 90 (NGC 2867)\\Chile One\\FITS\\Chile One_ngc2867_20260211_045107_0_4kwz1z_m_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/1/highmag/2026/02/11/0450_ngc2867/ngc2867_20260211_045107_0_4kwz1z_m_cal.fit",
+      "file_size": 17547840,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17309313:png": {
       "download_url": "https://polaris2.slooh.com/teide/3/highmag/2026/01/28/2000_m42/m42_20260128_200013_0_sbef6m_m.png?rand=1770720163.3274",
@@ -17551,6 +18431,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Running Man Nebula (NGC 1977)"
+    },
+    "17396078:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Caldwell 90 (NGC 2867)",
+      "filename": "Chile One_ngc2867_20260211_045231_0_emsn9q_m_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17396078",
+      "mission_id": "3932383",
+      "telescope_name": "Chile One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Caldwell 90 (NGC 2867)\\Chile One\\FITS\\Chile One_ngc2867_20260211_045231_0_emsn9q_m_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/1/highmag/2026/02/11/0450_ngc2867/ngc2867_20260211_045231_0_emsn9q_m_cal.fit",
+      "file_size": 17547840,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17284569:png": {
       "download_url": "https://polaris2.slooh.com/teide/3/highmag/2026/01/24/2050_barnard33/barnard33_20260124_205152_0_wax6eb_m.png?rand=1770715877.8099",
@@ -17952,6 +18848,22 @@
       "image_type": "FITS",
       "object_name": "Messier 83 "
     },
+    "17398147:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Horsehead Nebula (Barnard 33)",
+      "filename": "Australia One_barnard33_20260211_124140_0_5dtluq_g_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398147",
+      "mission_id": "3845257",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\FITS\\Australia One_barnard33_20260211_124140_0_5dtluq_g_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1240_barnard33/barnard33_20260211_124140_0_5dtluq_g_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17209203:png": {
       "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/01/14/0620_ngc3628/ngc3628_20260114_062025_0_93d0vb_l.png?rand=1770714410.1655",
       "mission_id": "",
@@ -18064,6 +18976,22 @@
       "image_type": "FITS",
       "object_name": "Caldwell 109 "
     },
+    "17392072:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Canopus (Alpha Carinae)",
+      "filename": "Chile One_alphacarinae_20260211_034942_0_ago2oj_m.png",
+      "photoroll_position": 45,
+      "image_id": "17392072",
+      "mission_id": "",
+      "telescope_name": "Chile One",
+      "customer_image_id": "14974828",
+      "file_path": "D:\\Slooh\\Canopus (Alpha Carinae)\\Chile One\\PNG\\Chile One_alphacarinae_20260211_034942_0_ago2oj_m.png",
+      "download_url": "https://polaris2.slooh.com/chile/1/highmag/2026/02/11/0350_alphacarinae/alphacarinae_20260211_034942_0_ago2oj_m.png?rand=1770841714.9317",
+      "file_size": 1228962,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17209710:png": {
       "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/01/14/0800_m83/m83_20260114_080229_0_rkdk0x_lrgb.png?rand=1770714099.0416",
       "mission_id": "",
@@ -18113,20 +19041,20 @@
       "object_name": "Leo I Galaxy Group (M96 Group)"
     },
     "17384691:png": {
-      "image_type": "png",
-      "session_id": 3,
-      "object_name": "Horsehead Nebula (Barnard 33)",
-      "filename": "Australia One_barnard33_20260210_103723_0_dfooap_lrgb.png",
-      "photoroll_position": 9,
-      "image_id": "17384691",
+      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/10/1035_barnard33/barnard33_20260210_103723_0_dfooap_lrgb.png?rand=1770750535.0599",
       "mission_id": "",
       "telescope_name": "Australia One",
-      "customer_image_id": "14969963",
-      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\PNG\\Australia One_barnard33_20260210_103723_0_dfooap_lrgb.png",
-      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/10/1035_barnard33/barnard33_20260210_103723_0_dfooap_lrgb.png?rand=1770750535.0599",
       "file_size": 3821374,
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\PNG\\Australia One_barnard33_20260210_103723_0_dfooap_lrgb.png",
+      "image_id": "17384691",
+      "download_date": "2026-02-11T08:09:22.683000",
+      "session_id": 3,
+      "customer_image_id": "14969963",
+      "filename": "Australia One_barnard33_20260210_103723_0_dfooap_lrgb.png",
+      "photoroll_position": 9,
       "md5_hash": "",
-      "download_date": "2026-02-11T08:09:22.683000"
+      "image_type": "png",
+      "object_name": "Horsehead Nebula (Barnard 33)"
     },
     "17274444:png": {
       "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/01/23/0725_dcld301.0-08.6/dcld301.0-08.6_20260123_072728_0_negpmo_lrgb.png?rand=1770716204.9091",
@@ -18479,6 +19407,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Bubble Nebula (NGC 7635)"
+    },
+    "17398017:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Inkspot Nebula (Barnard 86)",
+      "filename": "Chile Two_barnard86_20260211_080205_0_ykdtha_g_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398017",
+      "mission_id": "3888802",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Inkspot Nebula (Barnard 86)\\Chile Two\\FITS\\Chile Two_barnard86_20260211_080205_0_ykdtha_g_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0800_barnard86/barnard86_20260211_080205_0_ykdtha_g_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17315907:FITS": {
       "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/01/29/1320_barnard33/barnard33_20260129_131944_0_wdualv_l_cal.fit",
@@ -18959,6 +19903,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Tarantula Nebula (NGC 2070)"
+    },
+    "17392607:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Caldwell 53 (NGC 3115)",
+      "filename": "Chile One_ngc3115_20260211_051118_0_wz1cez_m.png",
+      "photoroll_position": 35,
+      "image_id": "17392607",
+      "mission_id": "",
+      "telescope_name": "Chile One",
+      "customer_image_id": "14975246",
+      "file_path": "D:\\Slooh\\Caldwell 53 (NGC 3115)\\Chile One\\PNG\\Chile One_ngc3115_20260211_051118_0_wz1cez_m.png",
+      "download_url": "https://polaris2.slooh.com/chile/1/highmag/2026/02/11/0510_ngc3115/ngc3115_20260211_051118_0_wz1cez_m.png?rand=1770841714.5781",
+      "file_size": 4849152,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17274912:FITS": {
       "download_url": "https://polaris.slooh.com/teide/4/highmag/2026/01/22/2335_messier1/messier1_20260122_233656_2_dkhqmv_m_cal.fit",
@@ -19472,6 +20432,22 @@
       "image_type": "FITS",
       "object_name": "Horsehead Nebula (Barnard 33)"
     },
+    "17394119:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Eagle Nebula (M16)",
+      "filename": "Chile Two_m16_20260211_084438_0_bzvlve_l.png",
+      "photoroll_position": 21,
+      "image_id": "17394119",
+      "mission_id": "",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "14976474",
+      "file_path": "D:\\Slooh\\Eagle Nebula (M16)\\Chile Two\\PNG\\Chile Two_m16_20260211_084438_0_bzvlve_l.png",
+      "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/02/11/0845_m16/m16_20260211_084438_0_bzvlve_l.png?rand=1770841714.3917",
+      "file_size": 1445964,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17287600:FITS": {
       "download_url": "https://polaris.slooh.com/teide/4/highmag/2026/01/24/2050_messier103/messier103_20260124_204950_0_jaktm8_m_cal.fit",
       "mission_id": "4084405",
@@ -19567,6 +20543,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Caldwell 41 (Mel 25)"
+    },
+    "17398210:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Swan Nebula (M17)",
+      "filename": "Chile Two_m17_20260211_083934_0_7qyi5z_l_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398210",
+      "mission_id": "3888810",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Swan Nebula (M17)\\Chile Two\\FITS\\Chile Two_m17_20260211_083934_0_7qyi5z_l_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0840_m17/m17_20260211_083934_0_7qyi5z_l_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17211389:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/14/0620_ngc3628/ngc3628_20260114_062023_0_pmfmei_l_cal.fit",
@@ -19744,6 +20736,22 @@
       "image_type": "FITS",
       "object_name": "California Nebula (NGC 1499)"
     },
+    "17391017:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Sculptor Spiral Galaxy (NGC 300)",
+      "filename": "Chile One_ngc300_20260211_011243_0_c8cvxl_m.png",
+      "photoroll_position": 49,
+      "image_id": "17391017",
+      "mission_id": "",
+      "telescope_name": "Chile One",
+      "customer_image_id": "14973607",
+      "file_path": "D:\\Slooh\\Sculptor Spiral Galaxy (NGC 300)\\Chile One\\PNG\\Chile One_ngc300_20260211_011243_0_c8cvxl_m.png",
+      "download_url": "https://polaris2.slooh.com/chile/1/highmag/2026/02/11/0110_ngc300/ngc300_20260211_011243_0_c8cvxl_m.png?rand=1770841714.9772",
+      "file_size": 5133505,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17259733:png": {
       "download_url": "https://polaris2.slooh.com/teide/2/highmag/2026/01/21/0320_m60/m60_20260121_031935_0_a1yjar_l.png?rand=1770717055.1761",
       "mission_id": "",
@@ -19776,6 +20784,22 @@
       "image_type": "FITS",
       "object_name": "Crab Nebula (M1)"
     },
+    "17384670:png": {
+      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/10/1035_barnard33/barnard33_20260210_103439_0_skjvm2_l.png?rand=1770750535.0704",
+      "mission_id": "",
+      "telescope_name": "Australia One",
+      "file_size": 1291458,
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\PNG\\Australia One_barnard33_20260210_103439_0_skjvm2_l.png",
+      "image_id": "17384670",
+      "download_date": "2026-02-11T08:09:22.683000",
+      "session_id": 3,
+      "customer_image_id": "14969944",
+      "filename": "Australia One_barnard33_20260210_103439_0_skjvm2_l.png",
+      "photoroll_position": 10,
+      "md5_hash": "",
+      "image_type": "png",
+      "object_name": "Horsehead Nebula (Barnard 33)"
+    },
     "17297074:FITS": {
       "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/01/26/1745_m104/m104_20260126_174557_0_jjx22y_r_cal.fit",
       "mission_id": "3843672",
@@ -19791,22 +20815,6 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Sombrero Galaxy (M104)"
-    },
-    "17384670:png": {
-      "image_type": "png",
-      "session_id": 3,
-      "object_name": "Horsehead Nebula (Barnard 33)",
-      "filename": "Australia One_barnard33_20260210_103439_0_skjvm2_l.png",
-      "photoroll_position": 10,
-      "image_id": "17384670",
-      "mission_id": "",
-      "telescope_name": "Australia One",
-      "customer_image_id": "14969944",
-      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\PNG\\Australia One_barnard33_20260210_103439_0_skjvm2_l.png",
-      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/10/1035_barnard33/barnard33_20260210_103439_0_skjvm2_l.png?rand=1770750535.0704",
-      "file_size": 1291458,
-      "md5_hash": "",
-      "download_date": "2026-02-11T08:09:22.683000"
     },
     "17289460:png": {
       "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/01/25/1345_ngc2359/ngc2359_20260125_134727_0_69bvqc_lrgb.png?rand=1770715661.3012",
@@ -20016,6 +21024,22 @@
       "image_type": "png",
       "object_name": "Horsehead Nebula (Barnard 33)"
     },
+    "17399145:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Crab Nebula (M1)",
+      "filename": "Canary Four_m1_20260211_201109_1_lqrmyc_m.png",
+      "photoroll_position": 1,
+      "image_id": "17399145",
+      "mission_id": "",
+      "telescope_name": "Canary Four",
+      "customer_image_id": "14977920",
+      "file_path": "D:\\Slooh\\Crab Nebula (M1)\\Canary Four\\PNG\\Canary Four_m1_20260211_201109_1_lqrmyc_m.png",
+      "download_url": "https://polaris2.slooh.com/teide/4/highmag/2026/02/11/2010_m1/m1_20260211_201109_1_lqrmyc_m.png?rand=1770841714.1988",
+      "file_size": 2058368,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17274918:FITS": {
       "download_url": "https://polaris.slooh.com/teide/4/highmag/2026/01/22/2340_messier1/messier1_20260122_233929_0_cajjcv_m_cal.fit",
       "mission_id": "4084163",
@@ -20097,20 +21121,20 @@
       "object_name": "Caldwell 92 "
     },
     "17386654:png": {
-      "image_type": "png",
-      "session_id": 3,
-      "object_name": "Thor's Helmet (NGC 2359)",
-      "filename": "Australia One_ngc2359_20260210_143524_0_ysn4rz_l.png",
-      "photoroll_position": 2,
-      "image_id": "17386654",
+      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/10/1435_ngc2359/ngc2359_20260210_143524_0_ysn4rz_l.png?rand=1770750534.9962",
       "mission_id": "",
       "telescope_name": "Australia One",
-      "customer_image_id": "14970439",
-      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\PNG\\Australia One_ngc2359_20260210_143524_0_ysn4rz_l.png",
-      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/10/1435_ngc2359/ngc2359_20260210_143524_0_ysn4rz_l.png?rand=1770750534.9962",
       "file_size": 1327392,
+      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\PNG\\Australia One_ngc2359_20260210_143524_0_ysn4rz_l.png",
+      "image_id": "17386654",
+      "download_date": "2026-02-11T08:09:22.683000",
+      "session_id": 3,
+      "customer_image_id": "14970439",
+      "filename": "Australia One_ngc2359_20260210_143524_0_ysn4rz_l.png",
+      "photoroll_position": 2,
       "md5_hash": "",
-      "download_date": "2026-02-11T08:09:22.683000"
+      "image_type": "png",
+      "object_name": "Thor's Helmet (NGC 2359)"
     },
     "17274762:FITS": {
       "download_url": "https://polaris.slooh.com/teide/4/highmag/2026/01/22/2240_messier42/messier42_20260122_223938_0_0bt3nb_m_cal.fit",
@@ -21136,6 +22160,22 @@
       "image_type": "FITS",
       "object_name": "Sombrero Galaxy (M104)"
     },
+    "17398000:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Inkspot Nebula (Barnard 86)",
+      "filename": "Chile Two_barnard86_20260211_080011_0_mcyife_l_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398000",
+      "mission_id": "3888802",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Inkspot Nebula (Barnard 86)\\Chile Two\\FITS\\Chile Two_barnard86_20260211_080011_0_mcyife_l_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0800_barnard86/barnard86_20260211_080011_0_mcyife_l_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17232024:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/16/0610_m60/m60_20260116_061016_0_ebo3ta_l_cal.fit",
       "mission_id": "3886215",
@@ -21648,6 +22688,22 @@
       "image_type": "png",
       "object_name": "Cheerio Nebula (NGC 6337)"
     },
+    "17388442:FITS": {
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/10/1035_barnard33/barnard33_20260210_103535_0_xfsook_r_cal.fit",
+      "mission_id": "3845126",
+      "telescope_name": "Australia One",
+      "file_size": 3732480,
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\FITS\\Australia One_barnard33_20260210_103535_0_xfsook_r_cal.fit",
+      "image_id": "17388442",
+      "download_date": "2026-02-11T08:09:22.683000",
+      "session_id": 3,
+      "customer_image_id": "",
+      "filename": "Australia One_barnard33_20260210_103535_0_xfsook_r_cal.fit",
+      "photoroll_position": null,
+      "md5_hash": "",
+      "image_type": "FITS",
+      "object_name": "Horsehead Nebula (Barnard 33)"
+    },
     "17320792:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/30/0840_ngc5139/ngc5139_20260130_084205_0_6azepy_b_cal.fit",
       "mission_id": "3887593",
@@ -21663,22 +22719,6 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Omega Centauri (NGC 5139)"
-    },
-    "17388442:FITS": {
-      "image_type": "FITS",
-      "session_id": 3,
-      "object_name": "Horsehead Nebula (Barnard 33)",
-      "filename": "Australia One_barnard33_20260210_103535_0_xfsook_r_cal.fit",
-      "photoroll_position": null,
-      "image_id": "17388442",
-      "mission_id": "3845126",
-      "telescope_name": "Australia One",
-      "customer_image_id": "",
-      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\FITS\\Australia One_barnard33_20260210_103535_0_xfsook_r_cal.fit",
-      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/10/1035_barnard33/barnard33_20260210_103535_0_xfsook_r_cal.fit",
-      "file_size": 3732480,
-      "md5_hash": "",
-      "download_date": "2026-02-11T08:09:22.683000"
     },
     "17384320:FITS": {
       "download_url": "https://polaris.slooh.com/teide/4/highmag/2026/02/10/0600_m101/m101_20260210_060133_0_zpdo0w_m_cal.fit",
@@ -21968,6 +23008,22 @@
       "image_type": "FITS",
       "object_name": "Horsehead Nebula (Barnard 33)"
     },
+    "17398070:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Thor's Helmet (NGC 2359)",
+      "filename": "Australia One_ngc2359_20260211_121039_0_oryfkq_r_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398070",
+      "mission_id": "3845251",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\FITS\\Australia One_ngc2359_20260211_121039_0_oryfkq_r_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1210_ngc2359/ngc2359_20260211_121039_0_oryfkq_r_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17288933:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/25/0515_m83/m83_20260125_051648_0_wrpdca_b_cal.fit",
       "mission_id": "3887062",
@@ -22160,6 +23216,22 @@
       "image_type": "FITS",
       "object_name": "Messier 83 "
     },
+    "17395950:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Horsehead Nebula (Barnard 33)",
+      "filename": "Australia One_barnard33_20260211_123953_0_raetcw_l.png",
+      "photoroll_position": 9,
+      "image_id": "17395950",
+      "mission_id": "",
+      "telescope_name": "Australia One",
+      "customer_image_id": "14977032",
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\PNG\\Australia One_barnard33_20260211_123953_0_raetcw_l.png",
+      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/11/1240_barnard33/barnard33_20260211_123953_0_raetcw_l.png?rand=1770841714.305",
+      "file_size": 1274659,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17261150:png": {
       "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/01/21/0745_dcld301.0-08.6/dcld301.0-08.6_20260121_074733_0_8y7f27_lrgb.png?rand=1770717055.079",
       "mission_id": "",
@@ -22303,6 +23375,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Antares (Alpha Scorpii)"
+    },
+    "17398292:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Omega Centauri (NGC 5139)",
+      "filename": "Chile Two_ngc5139_20260211_085706_0_dr35np_r_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398292",
+      "mission_id": "3888813",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Omega Centauri (NGC 5139)\\Chile Two\\FITS\\Chile Two_ngc5139_20260211_085706_0_dr35np_r_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0855_ngc5139/ngc5139_20260211_085706_0_dr35np_r_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17363651:png": {
       "download_url": "https://polaris2.slooh.com/teide/4/highmag/2026/02/06/2120_m1/m1_20260206_212001_1_vdvgzn_m.png?rand=1770719199.9325",
@@ -22448,6 +23536,22 @@
       "image_type": "FITS",
       "object_name": "Eta Carinae Nebula (NGC 3372)"
     },
+    "17398142:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Horsehead Nebula (Barnard 33)",
+      "filename": "Australia One_barnard33_20260211_123949_0_yillku_l_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398142",
+      "mission_id": "3845257",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\FITS\\Australia One_barnard33_20260211_123949_0_yillku_l_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1240_barnard33/barnard33_20260211_123949_0_yillku_l_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17288957:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/25/0525_m83/m83_20260125_052607_0_vgcjla_g_cal.fit",
       "mission_id": "3887064",
@@ -22495,6 +23599,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Gold Dust Star Cluster (M37)"
+    },
+    "17394334:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Caldwell 39 (NGC 2392)",
+      "filename": "Canary Four_ngc2392_20260211_040725_0_7khb6v_m_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17394334",
+      "mission_id": "4086801",
+      "telescope_name": "Canary Four",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Caldwell 39 (NGC 2392)\\Canary Four\\FITS\\Canary Four_ngc2392_20260211_040725_0_7khb6v_m_cal.fit",
+      "download_url": "https://polaris.slooh.com/teide/4/highmag/2026/02/11/0405_ngc2392/ngc2392_20260211_040725_0_7khb6v_m_cal.fit",
+      "file_size": 17547840,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17201472:FITS": {
       "download_url": "https://polaris.slooh.com/teide/4/highmag/2026/01/11/2050_ngc40/ngc40_20260111_204939_0_xoqn6f_m_cal.fit",
@@ -22639,6 +23759,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Messier 45 "
+    },
+    "17397986:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Dark Doodad Nebula (DCLD 301.0-08.6)",
+      "filename": "Chile Two_dcld301.0-08.6_20260211_075649_0_r4pjuk_g_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17397986",
+      "mission_id": "3888801",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Dark Doodad Nebula (DCLD 301.0-08.6)\\Chile Two\\FITS\\Chile Two_dcld301.0-08.6_20260211_075649_0_r4pjuk_g_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0755_dcld301.0-08.6/dcld301.0-08.6_20260211_075649_0_r4pjuk_g_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17205340:png": {
       "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/01/13/0800_ngc5128/ngc5128_20260113_080202_0_stbtiv_lrgb.png?rand=1770714410.4113",
@@ -22975,6 +24111,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Aristotle's Star Cluster (M41)"
+    },
+    "17397979:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Dark Doodad Nebula (DCLD 301.0-08.6)",
+      "filename": "Chile Two_dcld301.0-08.6_20260211_075606_0_n1iqam_r_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17397979",
+      "mission_id": "3888801",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Dark Doodad Nebula (DCLD 301.0-08.6)\\Chile Two\\FITS\\Chile Two_dcld301.0-08.6_20260211_075606_0_n1iqam_r_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0755_dcld301.0-08.6/dcld301.0-08.6_20260211_075606_0_n1iqam_r_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17251581:png": {
       "download_url": "https://polaris2.slooh.com/teide/2/widefield/2026/01/19/2230_m1/m1_20260119_222943_0_heibzu_l.png?rand=1770717372.217",
@@ -23600,6 +24752,22 @@
       "image_type": "png",
       "object_name": "Crab Nebula (M1)"
     },
+    "17397945:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Horsehead Nebula (Barnard 33)",
+      "filename": "Australia One_barnard33_20260211_111709_0_01coqu_l_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17397945",
+      "mission_id": "3845240",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\FITS\\Australia One_barnard33_20260211_111709_0_01coqu_l_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1115_barnard33/barnard33_20260211_111709_0_01coqu_l_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17335815:png": {
       "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/02/1315_ngc2359/ngc2359_20260202_131718_0_s7kzpw_l.png?rand=1770719424.0983",
       "mission_id": "",
@@ -23791,6 +24959,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Sombrero Galaxy (M104)"
+    },
+    "17396186:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Caldwell 53 (NGC 3115)",
+      "filename": "Chile One_ngc3115_20260211_051116_0_ns6n0n_m_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17396186",
+      "mission_id": "3932387",
+      "telescope_name": "Chile One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Caldwell 53 (NGC 3115)\\Chile One\\FITS\\Chile One_ngc3115_20260211_051116_0_ns6n0n_m_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/1/highmag/2026/02/11/0510_ngc3115/ngc3115_20260211_051116_0_ns6n0n_m_cal.fit",
+      "file_size": 17547840,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17329944:png": {
       "download_url": "https://polaris2.slooh.com/teide/4/highmag/2026/02/01/0655_alphascorpii/alphascorpii_20260201_065355_0_dbbw4t_m.png?rand=1770719737.732",
@@ -24032,6 +25216,22 @@
       "image_type": "FITS",
       "object_name": "Caldwell 60 (NGC 4038)"
     },
+    "17396198:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Caldwell 53 (NGC 3115)",
+      "filename": "Chile One_ngc3115_20260211_051241_0_umkd6y_m_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17396198",
+      "mission_id": "3932387",
+      "telescope_name": "Chile One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Caldwell 53 (NGC 3115)\\Chile One\\FITS\\Chile One_ngc3115_20260211_051241_0_umkd6y_m_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/1/highmag/2026/02/11/0510_ngc3115/ngc3115_20260211_051241_0_umkd6y_m_cal.fit",
+      "file_size": 17547840,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17377207:FITS": {
       "download_url": "https://polaris.slooh.com/teide/3/highmag/2026/02/09/0015_m48/m48_20260209_001646_0_pcmj5x_m_cal.fit",
       "mission_id": "4042645",
@@ -24064,6 +25264,22 @@
       "image_type": "png",
       "object_name": "Rich Globular Star Cluster (M3)"
     },
+    "17394707:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Sculptor Spiral Galaxy (NGC 300)",
+      "filename": "Chile One_ngc300_20260211_011241_0_snugdn_m_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17394707",
+      "mission_id": "3932339",
+      "telescope_name": "Chile One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Sculptor Spiral Galaxy (NGC 300)\\Chile One\\FITS\\Chile One_ngc300_20260211_011241_0_snugdn_m_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/1/highmag/2026/02/11/0110_ngc300/ngc300_20260211_011241_0_snugdn_m_cal.fit",
+      "file_size": 17547840,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17219672:png": {
       "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/01/15/1105_barnard33/barnard33_20260115_110810_0_dnshql_lrgb.png?rand=1770714098.7634",
       "mission_id": "",
@@ -24079,6 +25295,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Horsehead Nebula (Barnard 33)"
+    },
+    "17390950:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Caldwell 50 (NGC 2244)",
+      "filename": "Chile One_ngc2244_20260211_010249_0_emyjn5_m.png",
+      "photoroll_position": 50,
+      "image_id": "17390950",
+      "mission_id": "",
+      "telescope_name": "Chile One",
+      "customer_image_id": "14973536",
+      "file_path": "D:\\Slooh\\Caldwell 50 (NGC 2244)\\Chile One\\PNG\\Chile One_ngc2244_20260211_010249_0_emyjn5_m.png",
+      "download_url": "https://polaris2.slooh.com/chile/1/highmag/2026/02/11/0100_ngc2244/ngc2244_20260211_010249_0_emyjn5_m.png?rand=1770841714.9825",
+      "file_size": 2966899,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17239012:FITS": {
       "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/01/17/1420_caldwell92/caldwell92_20260117_141930_0_zxoriw_l_cal.fit",
@@ -24192,6 +25424,22 @@
       "image_type": "png",
       "object_name": "Horsehead Nebula (Barnard 33)"
     },
+    "17398047:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Horsehead Nebula (Barnard 33)",
+      "filename": "Australia One_barnard33_20260211_120135_0_s0bcxt_g_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398047",
+      "mission_id": "3845249",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\FITS\\Australia One_barnard33_20260211_120135_0_s0bcxt_g_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1200_barnard33/barnard33_20260211_120135_0_s0bcxt_g_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17287239:png": {
       "download_url": "https://polaris2.slooh.com/teide/4/highmag/2026/01/25/0620_ngc6543/ngc6543_20260125_061931_0_abuank_m.png?rand=1770715661.591",
       "mission_id": "",
@@ -24223,6 +25471,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Omega Centauri (NGC 5139)"
+    },
+    "17392462:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Caldwell 90 (NGC 2867)",
+      "filename": "Chile One_ngc2867_20260211_044948_0_z3xfw1_m.png",
+      "photoroll_position": 39,
+      "image_id": "17392462",
+      "mission_id": "",
+      "telescope_name": "Chile One",
+      "customer_image_id": "14975140",
+      "file_path": "D:\\Slooh\\Caldwell 90 (NGC 2867)\\Chile One\\PNG\\Chile One_ngc2867_20260211_044948_0_z3xfw1_m.png",
+      "download_url": "https://polaris2.slooh.com/chile/1/highmag/2026/02/11/0450_ngc2867/ngc2867_20260211_044948_0_z3xfw1_m.png?rand=1770841714.6666",
+      "file_size": 3626844,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17211981:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/14/0840_ngc6266/ngc6266_20260114_084114_0_4sf4sf_g_cal.fit",
@@ -24608,6 +25872,22 @@
       "image_type": "png",
       "object_name": "Crab Nebula (M1)"
     },
+    "17396394:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Thor's Helmet (NGC 2359)",
+      "filename": "Australia One_ngc2359_20260211_133753_0_ommwop_lrgb.png",
+      "photoroll_position": 6,
+      "image_id": "17396394",
+      "mission_id": "",
+      "telescope_name": "Australia One",
+      "customer_image_id": "14977115",
+      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\PNG\\Australia One_ngc2359_20260211_133753_0_ommwop_lrgb.png",
+      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/11/1335_ngc2359/ngc2359_20260211_133753_0_ommwop_lrgb.png?rand=1770841714.2903",
+      "file_size": 2653682,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17311958:png": {
       "download_url": "https://polaris2.slooh.com/teide/4/highmag/2026/01/29/0620_ngc6826/ngc6826_20260129_061951_0_6whecj_m.png?rand=1770720163.1245",
       "mission_id": "",
@@ -24671,6 +25951,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Bow-Tie Nebula (NGC 40)"
+    },
+    "17395713:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Canopus (Alpha Carinae)",
+      "filename": "Chile One_alphacarinae_20260211_034938_0_4rqrjj_m_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17395713",
+      "mission_id": "3932371",
+      "telescope_name": "Chile One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Canopus (Alpha Carinae)\\Chile One\\FITS\\Chile One_alphacarinae_20260211_034938_0_4rqrjj_m_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/1/highmag/2026/02/11/0350_alphacarinae/alphacarinae_20260211_034938_0_4rqrjj_m_cal.fit",
+      "file_size": 17547840,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17306657:FITS": {
       "download_url": "https://polaris.slooh.com/teide/4/highmag/2026/01/28/0615_m101/m101_20260128_061651_0_4bles7_m_cal.fit",
@@ -25152,6 +26448,22 @@
       "image_type": "FITS",
       "object_name": "Messier 83 "
     },
+    "17392798:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Spiral Galaxy M100",
+      "filename": "Chile One_m100_20260211_054102_0_7ljpgf_m.png",
+      "photoroll_position": 31,
+      "image_id": "17392798",
+      "mission_id": "",
+      "telescope_name": "Chile One",
+      "customer_image_id": "14975384",
+      "file_path": "D:\\Slooh\\Spiral Galaxy M100\\Chile One\\PNG\\Chile One_m100_20260211_054102_0_7ljpgf_m.png",
+      "download_url": "https://polaris2.slooh.com/chile/1/highmag/2026/02/11/0540_m100/m100_20260211_054102_0_7ljpgf_m.png?rand=1770841714.4607",
+      "file_size": 3293104,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17366923:png": {
       "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/02/07/0635_ngc3372/ngc3372_20260207_063727_0_re5tkp_lrgb.png?rand=1770719199.7609",
       "mission_id": "",
@@ -25281,20 +26593,20 @@
       "object_name": "Caldwell 76 (NGC 6231)"
     },
     "17388441:FITS": {
-      "image_type": "FITS",
-      "session_id": 3,
-      "object_name": "Horsehead Nebula (Barnard 33)",
-      "filename": "Australia One_barnard33_20260210_103435_0_am92tm_l_cal.fit",
-      "photoroll_position": null,
-      "image_id": "17388441",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/10/1035_barnard33/barnard33_20260210_103435_0_am92tm_l_cal.fit",
       "mission_id": "3845126",
       "telescope_name": "Australia One",
-      "customer_image_id": "",
-      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\FITS\\Australia One_barnard33_20260210_103435_0_am92tm_l_cal.fit",
-      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/10/1035_barnard33/barnard33_20260210_103435_0_am92tm_l_cal.fit",
       "file_size": 3732480,
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\FITS\\Australia One_barnard33_20260210_103435_0_am92tm_l_cal.fit",
+      "image_id": "17388441",
+      "download_date": "2026-02-11T08:09:22.683000",
+      "session_id": 3,
+      "customer_image_id": "",
+      "filename": "Australia One_barnard33_20260210_103435_0_am92tm_l_cal.fit",
+      "photoroll_position": null,
       "md5_hash": "",
-      "download_date": "2026-02-11T08:09:22.683000"
+      "image_type": "FITS",
+      "object_name": "Horsehead Nebula (Barnard 33)"
     },
     "17268852:png": {
       "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/01/22/1200_barnard33/barnard33_20260122_115932_0_y55cmp_l.png?rand=1770716740.6433",
@@ -25568,6 +26880,22 @@
       "image_type": "FITS",
       "object_name": "Cat's Eye Nebula (NGC 6543)"
     },
+    "17396174:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Caldwell 53 (NGC 3115)",
+      "filename": "Chile One_ngc3115_20260211_050949_0_8ucrp9_m_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17396174",
+      "mission_id": "3932387",
+      "telescope_name": "Chile One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Caldwell 53 (NGC 3115)\\Chile One\\FITS\\Chile One_ngc3115_20260211_050949_0_8ucrp9_m_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/1/highmag/2026/02/11/0510_ngc3115/ngc3115_20260211_050949_0_8ucrp9_m_cal.fit",
+      "file_size": 17547840,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17367349:png": {
       "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/02/07/0755_m19/m19_20260207_075529_0_qjuskw_l.png?rand=1770719199.7397",
       "mission_id": "",
@@ -25743,6 +27071,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Bubble Nebula (NGC 7635)"
+    },
+    "17398236:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Eagle Nebula (M16)",
+      "filename": "Chile Two_m16_20260211_084434_0_g0zbmt_l_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398236",
+      "mission_id": "3888811",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Eagle Nebula (M16)\\Chile Two\\FITS\\Chile Two_m16_20260211_084434_0_g0zbmt_l_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0845_m16/m16_20260211_084434_0_g0zbmt_l_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17221945:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/15/0845_m80/m80_20260115_084654_0_xddnqw_b_cal.fit",
@@ -26255,6 +27599,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Caldwell 77 (NGC 5128)"
+    },
+    "17398230:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Swan Nebula (M17)",
+      "filename": "Chile Two_m17_20260211_084255_0_u1a34x_b_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398230",
+      "mission_id": "3888810",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Swan Nebula (M17)\\Chile Two\\FITS\\Chile Two_m17_20260211_084255_0_u1a34x_b_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0840_m17/m17_20260211_084255_0_u1a34x_b_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17359433:png": {
       "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/02/06/0830_m20/m20_20260206_083212_0_ccjsk6_lrgb.png?rand=1770719200.0187",
@@ -26944,6 +28304,22 @@
       "image_type": "png",
       "object_name": "Orion Nebula (M42)"
     },
+    "17393745:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Dark Doodad Nebula (DCLD 301.0-08.6)",
+      "filename": "Chile Two_dcld301.0-08.6_20260211_075754_0_y6usmb_lrgb.png",
+      "photoroll_position": 26,
+      "image_id": "17393745",
+      "mission_id": "",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "14976284",
+      "file_path": "D:\\Slooh\\Dark Doodad Nebula (DCLD 301.0-08.6)\\Chile Two\\PNG\\Chile Two_dcld301.0-08.6_20260211_075754_0_y6usmb_lrgb.png",
+      "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/02/11/0755_dcld301.0-08.6/dcld301.0-08.6_20260211_075754_0_y6usmb_lrgb.png?rand=1770841714.4291",
+      "file_size": 2820547,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17231515:FITS": {
       "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/01/16/1415_dcld301.0-08.6/dcld301.0-08.6_20260116_141444_0_ei8kuv_l_cal.fit",
       "mission_id": "3842649",
@@ -27039,6 +28415,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Leo Triplet (M66 Group)"
+    },
+    "17394974:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Horsehead Nebula (Barnard 33)",
+      "filename": "Australia One_barnard33_20260211_103318_0_v4no87_lrgb.png",
+      "photoroll_position": 15,
+      "image_id": "17394974",
+      "mission_id": "",
+      "telescope_name": "Australia One",
+      "customer_image_id": "14976783",
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\PNG\\Australia One_barnard33_20260211_103318_0_v4no87_lrgb.png",
+      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/11/1030_barnard33/barnard33_20260211_103318_0_v4no87_lrgb.png?rand=1770841714.3437",
+      "file_size": 3356270,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17342893:FITS": {
       "download_url": "https://polaris.slooh.com/teide/4/highmag/2026/02/03/2020_ngc40/ngc40_20260203_202205_0_0bnlr1_m_cal.fit",
@@ -27248,6 +28640,22 @@
       "image_type": "png",
       "object_name": "Ring Nebula (M57)"
     },
+    "17397775:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Horsehead Nebula (Barnard 33)",
+      "filename": "Australia One_barnard33_20260211_103122_0_qzpcgf_r_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17397775",
+      "mission_id": "3845231",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\FITS\\Australia One_barnard33_20260211_103122_0_qzpcgf_r_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1030_barnard33/barnard33_20260211_103122_0_qzpcgf_r_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17238048:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/17/0825_m53/m53_20260117_082644_0_6qjina_g_cal.fit",
       "mission_id": "3886336",
@@ -27295,6 +28703,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Horsehead Nebula (Barnard 33)"
+    },
+    "17394327:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Caldwell 39 (NGC 2392)",
+      "filename": "Canary Four_ngc2392_20260211_040611_0_ss5dj4_m_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17394327",
+      "mission_id": "4086801",
+      "telescope_name": "Canary Four",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Caldwell 39 (NGC 2392)\\Canary Four\\FITS\\Canary Four_ngc2392_20260211_040611_0_ss5dj4_m_cal.fit",
+      "download_url": "https://polaris.slooh.com/teide/4/highmag/2026/02/11/0405_ngc2392/ngc2392_20260211_040611_0_ss5dj4_m_cal.fit",
+      "file_size": 17547840,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17224216:png": {
       "download_url": "https://polaris2.slooh.com/teide/4/highmag/2026/01/15/2310_m1/m1_20260115_230957_1_1sesch_m.png?rand=1770713873.598",
@@ -27616,6 +29040,22 @@
       "image_type": "png",
       "object_name": "Crab Nebula (M1)"
     },
+    "17395972:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Horsehead Nebula (Barnard 33)",
+      "filename": "Australia One_barnard33_20260211_124238_0_anbm60_lrgb.png",
+      "photoroll_position": 8,
+      "image_id": "17395972",
+      "mission_id": "",
+      "telescope_name": "Australia One",
+      "customer_image_id": "14977036",
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\PNG\\Australia One_barnard33_20260211_124238_0_anbm60_lrgb.png",
+      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/11/1240_barnard33/barnard33_20260211_124238_0_anbm60_lrgb.png?rand=1770841714.3009",
+      "file_size": 3804304,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17220810:FITS": {
       "download_url": "https://polaris.slooh.com/teide/3/highmag/2026/01/15/0425_m96group/m96group_20260115_042657_0_vvg6yf_m_cal.fit",
       "mission_id": "4039268",
@@ -27647,6 +29087,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Crab Nebula (M1)"
+    },
+    "17396383:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Spiral Galaxy M100",
+      "filename": "Chile One_m100_20260211_054301_0_nzocqv_m_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17396383",
+      "mission_id": "3932393",
+      "telescope_name": "Chile One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Spiral Galaxy M100\\Chile One\\FITS\\Chile One_m100_20260211_054301_0_nzocqv_m_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/1/highmag/2026/02/11/0540_m100/m100_20260211_054301_0_nzocqv_m_cal.fit",
+      "file_size": 17547840,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17232244:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/16/0705_m59/m59_20260116_070550_0_s2iddb_r_cal.fit",
@@ -28273,20 +29729,20 @@
       "object_name": "Jewel Box (NGC 4755)"
     },
     "17385493:png": {
-      "image_type": "png",
-      "session_id": 3,
-      "object_name": "Horsehead Nebula (Barnard 33)",
-      "filename": "Australia One_barnard33_20260210_121319_0_cpjuxd_lrgb.png",
-      "photoroll_position": 7,
-      "image_id": "17385493",
+      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/10/1210_barnard33/barnard33_20260210_121319_0_cpjuxd_lrgb.png?rand=1770750535.0422",
       "mission_id": "",
       "telescope_name": "Australia One",
-      "customer_image_id": "14970149",
-      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\PNG\\Australia One_barnard33_20260210_121319_0_cpjuxd_lrgb.png",
-      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/10/1210_barnard33/barnard33_20260210_121319_0_cpjuxd_lrgb.png?rand=1770750535.0422",
       "file_size": 3780787,
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\PNG\\Australia One_barnard33_20260210_121319_0_cpjuxd_lrgb.png",
+      "image_id": "17385493",
+      "download_date": "2026-02-11T08:09:22.683000",
+      "session_id": 3,
+      "customer_image_id": "14970149",
+      "filename": "Australia One_barnard33_20260210_121319_0_cpjuxd_lrgb.png",
+      "photoroll_position": 7,
       "md5_hash": "",
-      "download_date": "2026-02-11T08:09:22.683000"
+      "image_type": "png",
+      "object_name": "Horsehead Nebula (Barnard 33)"
     },
     "17261124:png": {
       "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/01/21/0745_dcld301.0-08.6/dcld301.0-08.6_20260121_074454_0_kcg3tu_l.png?rand=1770717055.0864",
@@ -28351,6 +29807,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Crab Nebula (M1)"
+    },
+    "17393588:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Giant Elliptical Galaxy (M87)",
+      "filename": "Chile One_m87_20260211_073745_0_5twf7k_m.png",
+      "photoroll_position": 28,
+      "image_id": "17393588",
+      "mission_id": "",
+      "telescope_name": "Chile One",
+      "customer_image_id": "14976197",
+      "file_path": "D:\\Slooh\\Giant Elliptical Galaxy (M87)\\Chile One\\PNG\\Chile One_m87_20260211_073745_0_5twf7k_m.png",
+      "download_url": "https://polaris2.slooh.com/chile/1/highmag/2026/02/11/0735_m87/m87_20260211_073745_0_5twf7k_m.png?rand=1770841714.4433",
+      "file_size": 2863902,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17225068:png": {
       "download_url": "https://polaris2.slooh.com/teide/4/highmag/2026/01/16/0140_jupiter/jupiter_20260116_013928_0_nkfyp1_m.png?rand=1770713873.5239",
@@ -28497,20 +29969,20 @@
       "object_name": "Pleiades Star Cluster (M45)"
     },
     "17386163:png": {
-      "image_type": "png",
-      "session_id": 3,
-      "object_name": "Thor's Helmet (NGC 2359)",
-      "filename": "Australia One_ngc2359_20260210_133242_0_ngjjdd_lrgb.png",
-      "photoroll_position": 3,
-      "image_id": "17386163",
+      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/10/1330_ngc2359/ngc2359_20260210_133242_0_ngjjdd_lrgb.png?rand=1770750535.005",
       "mission_id": "",
       "telescope_name": "Australia One",
-      "customer_image_id": "14970287",
-      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\PNG\\Australia One_ngc2359_20260210_133242_0_ngjjdd_lrgb.png",
-      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/10/1330_ngc2359/ngc2359_20260210_133242_0_ngjjdd_lrgb.png?rand=1770750535.005",
       "file_size": 2089218,
+      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\PNG\\Australia One_ngc2359_20260210_133242_0_ngjjdd_lrgb.png",
+      "image_id": "17386163",
+      "download_date": "2026-02-11T08:09:22.683000",
+      "session_id": 3,
+      "customer_image_id": "14970287",
+      "filename": "Australia One_ngc2359_20260210_133242_0_ngjjdd_lrgb.png",
+      "photoroll_position": 3,
       "md5_hash": "",
-      "download_date": "2026-02-11T08:09:22.683000"
+      "image_type": "png",
+      "object_name": "Thor's Helmet (NGC 2359)"
     },
     "17296921:FITS": {
       "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/01/26/1620_ngc4038/ngc4038_20260126_162219_0_wfgwff_b_cal.fit",
@@ -29248,6 +30720,22 @@
       "image_type": "FITS",
       "object_name": "Caldwell 69 (NGC 6302)"
     },
+    "17395309:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Horsehead Nebula (Barnard 33)",
+      "filename": "Australia One_barnard33_20260211_111713_0_mzpewn_l.png",
+      "photoroll_position": 14,
+      "image_id": "17395309",
+      "mission_id": "",
+      "telescope_name": "Australia One",
+      "customer_image_id": "14976875",
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\PNG\\Australia One_barnard33_20260211_111713_0_mzpewn_l.png",
+      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/11/1115_barnard33/barnard33_20260211_111713_0_mzpewn_l.png?rand=1770841714.3366",
+      "file_size": 1275797,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17312239:FITS": {
       "download_url": "https://polaris.slooh.com/teide/4/highmag/2026/01/28/2020_ngc7635/ngc7635_20260128_201940_0_pvjzgi_m_cal.fit",
       "mission_id": "4084949",
@@ -29536,6 +31024,22 @@
       "image_type": "png",
       "object_name": "Messier 83 "
     },
+    "17391021:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Tarantula Nebula (NGC 2070)",
+      "filename": "Chile Two_ngc2070_20260211_011258_0_z4ddak_lrgb.png",
+      "photoroll_position": 48,
+      "image_id": "17391021",
+      "mission_id": "",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "14973611",
+      "file_path": "D:\\Slooh\\Tarantula Nebula (NGC 2070)\\Chile Two\\PNG\\Chile Two_ngc2070_20260211_011258_0_z4ddak_lrgb.png",
+      "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/02/11/0110_ngc2070/ngc2070_20260211_011258_0_z4ddak_lrgb.png?rand=1770841714.9702",
+      "file_size": 3887602,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17267684:png": {
       "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/01/22/0705_ngc3372/ngc3372_20260122_070449_0_4vozfp_l.png?rand=1770716741.0106",
       "mission_id": "",
@@ -29583,6 +31087,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Crab Nebula (M1)"
+    },
+    "17398071:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Thor's Helmet (NGC 2359)",
+      "filename": "Australia One_ngc2359_20260211_121123_0_facg6f_g_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398071",
+      "mission_id": "3845251",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\FITS\\Australia One_ngc2359_20260211_121123_0_facg6f_g_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1210_ngc2359/ngc2359_20260211_121123_0_facg6f_g_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17275214:FITS": {
       "download_url": "https://polaris.slooh.com/teide/2/widefield/2026/01/22/2255_m1/m1_20260122_225449_0_cfbady_l_cal.fit",
@@ -30544,6 +32064,22 @@
       "image_type": "FITS",
       "object_name": "Caldwell 100 (IC 2944)"
     },
+    "17394104:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Swan Nebula (M17)",
+      "filename": "Chile Two_m17_20260211_084307_0_hiwnfy_lrgb.png",
+      "photoroll_position": 22,
+      "image_id": "17394104",
+      "mission_id": "",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "14976462",
+      "file_path": "D:\\Slooh\\Swan Nebula (M17)\\Chile Two\\PNG\\Chile Two_m17_20260211_084307_0_hiwnfy_lrgb.png",
+      "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/02/11/0840_m17/m17_20260211_084307_0_hiwnfy_lrgb.png?rand=1770841714.3991",
+      "file_size": 1646924,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17297041:FITS": {
       "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/01/26/1725_ngc4568-4567/ngc4568-4567_20260126_172656_0_uvfxu9_b_cal.fit",
       "mission_id": "3843668",
@@ -30639,6 +32175,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Toby Jug Nebula (IC 2220)"
+    },
+    "17398384:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Thor's Helmet (NGC 2359)",
+      "filename": "Australia One_ngc2359_20260211_135212_0_ict2ad_b_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398384",
+      "mission_id": "3845271",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\FITS\\Australia One_ngc2359_20260211_135212_0_ict2ad_b_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1350_ngc2359/ngc2359_20260211_135212_0_ict2ad_b_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17250324:FITS": {
       "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/01/19/1015_barnard33/barnard33_20260119_101559_0_rfzdxw_r_cal.fit",
@@ -30960,6 +32512,22 @@
       "image_type": "FITS",
       "object_name": "Elliptical Galaxy M59"
     },
+    "17395667:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Horsehead Nebula (Barnard 33)",
+      "filename": "Australia One_barnard33_20260211_120249_0_zvyv6n_lrgb.png",
+      "photoroll_position": 12,
+      "image_id": "17395667",
+      "mission_id": "",
+      "telescope_name": "Australia One",
+      "customer_image_id": "14976933",
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\PNG\\Australia One_barnard33_20260211_120249_0_zvyv6n_lrgb.png",
+      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/11/1200_barnard33/barnard33_20260211_120249_0_zvyv6n_lrgb.png?rand=1770841714.3246",
+      "file_size": 3779725,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17281328:FITS": {
       "download_url": "https://polaris.slooh.com/teide/4/highmag/2026/01/24/0630_ngc6543/ngc6543_20260124_062849_0_s2j4xc_m_cal.fit",
       "mission_id": "4084383",
@@ -31039,6 +32607,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Southern Pinwheel Galaxy (M83)"
+    },
+    "17394727:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Tarantula Nebula (NGC 2070)",
+      "filename": "Chile Two_ngc2070_20260211_010959_0_rw4t9n_l_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17394727",
+      "mission_id": "3888720",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Tarantula Nebula (NGC 2070)\\Chile Two\\FITS\\Chile Two_ngc2070_20260211_010959_0_rw4t9n_l_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0110_ngc2070/ngc2070_20260211_010959_0_rw4t9n_l_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17283345:png": {
       "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/01/24/1620_ngc4038/ngc4038_20260124_161951_0_p7tidx_l.png?rand=1770715878.0089",
@@ -31152,6 +32736,22 @@
       "image_type": "FITS",
       "object_name": "Caldwell 71 (NGC 2477)"
     },
+    "17398067:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Thor's Helmet (NGC 2359)",
+      "filename": "Australia One_ngc2359_20260211_120938_0_9aqqfp_l_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398067",
+      "mission_id": "3845251",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\FITS\\Australia One_ngc2359_20260211_120938_0_9aqqfp_l_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1210_ngc2359/ngc2359_20260211_120938_0_9aqqfp_l_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17265246:FITS": {
       "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/01/21/1255_ngc2070/ngc2070_20260121_125508_0_b49b4w_l_cal.fit",
       "mission_id": "3843119",
@@ -31167,6 +32767,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Tarantula Nebula (NGC 2070)"
+    },
+    "17394636:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Caldwell 50 (NGC 2244)",
+      "filename": "Chile One_ngc2244_20260211_010246_0_h2uh5n_m_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17394636",
+      "mission_id": "3932337",
+      "telescope_name": "Chile One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Caldwell 50 (NGC 2244)\\Chile One\\FITS\\Chile One_ngc2244_20260211_010246_0_h2uh5n_m_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/1/highmag/2026/02/11/0100_ngc2244/ngc2244_20260211_010246_0_h2uh5n_m_cal.fit",
+      "file_size": 17547840,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17336849:FITS": {
       "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/02/1020_deltaorionis/deltaorionis_20260202_102204_1_lmiat0_b_cal.fit",
@@ -31264,6 +32880,22 @@
       "image_type": "png",
       "object_name": "Caldwell 92 "
     },
+    "17392614:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Caldwell 53 (NGC 3115)",
+      "filename": "Chile One_ngc3115_20260211_051244_0_h2tlj5_m.png",
+      "photoroll_position": 34,
+      "image_id": "17392614",
+      "mission_id": "",
+      "telescope_name": "Chile One",
+      "customer_image_id": "14975255",
+      "file_path": "D:\\Slooh\\Caldwell 53 (NGC 3115)\\Chile One\\PNG\\Chile One_ngc3115_20260211_051244_0_h2tlj5_m.png",
+      "download_url": "https://polaris2.slooh.com/chile/1/highmag/2026/02/11/0510_ngc3115/ngc3115_20260211_051244_0_h2tlj5_m.png?rand=1770841714.5719",
+      "file_size": 4475679,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17303221:png": {
       "download_url": "https://polaris2.slooh.com/teide/3/highmag/2026/01/27/2030_caldwell13/caldwell13_20260127_203244_0_cvbltj_m.png?rand=1770720464.2258",
       "mission_id": "",
@@ -31279,6 +32911,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Caldwell 13 "
+    },
+    "17392069:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Canopus (Alpha Carinae)",
+      "filename": "Chile One_alphacarinae_20260211_034914_0_mwosyu_m.png",
+      "photoroll_position": 46,
+      "image_id": "17392069",
+      "mission_id": "",
+      "telescope_name": "Chile One",
+      "customer_image_id": "14974826",
+      "file_path": "D:\\Slooh\\Canopus (Alpha Carinae)\\Chile One\\PNG\\Chile One_alphacarinae_20260211_034914_0_mwosyu_m.png",
+      "download_url": "https://polaris2.slooh.com/chile/1/highmag/2026/02/11/0350_alphacarinae/alphacarinae_20260211_034914_0_mwosyu_m.png?rand=1770841714.945",
+      "file_size": 1813372,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17273109:png": {
       "download_url": "https://polaris2.slooh.com/teide/2/highmag/2026/01/23/0300_m104/m104_20260123_030037_0_so70jt_l.png?rand=1770716412.6496",
@@ -31472,6 +33120,22 @@
       "image_type": "FITS",
       "object_name": "Crab Nebula (M1)"
     },
+    "17392717:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Hubble's Variable Nebula (NGC 2261)",
+      "filename": "Chile Two_ngc2261_20260211_052802_0_pksx33_lrgb.png",
+      "photoroll_position": 32,
+      "image_id": "17392717",
+      "mission_id": "",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "14975323",
+      "file_path": "D:\\Slooh\\Hubble's Variable Nebula (NGC 2261)\\Chile Two\\PNG\\Chile Two_ngc2261_20260211_052802_0_pksx33_lrgb.png",
+      "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/02/11/0525_ngc2261/ngc2261_20260211_052802_0_pksx33_lrgb.png?rand=1770841714.5549",
+      "file_size": 3220505,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17262568:FITS": {
       "download_url": "https://polaris.slooh.com/teide/2/widefield/2026/01/21/0055_m76/m76_20260121_005601_0_fknkyb_r_cal.fit",
       "mission_id": "3996216",
@@ -31535,6 +33199,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Horsehead Nebula (Barnard 33)"
+    },
+    "17395716:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Thor's Helmet (NGC 2359)",
+      "filename": "Australia One_ngc2359_20260211_120941_0_ng0ycv_l.png",
+      "photoroll_position": 11,
+      "image_id": "17395716",
+      "mission_id": "",
+      "telescope_name": "Australia One",
+      "customer_image_id": "14976949",
+      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\PNG\\Australia One_ngc2359_20260211_120941_0_ng0ycv_l.png",
+      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/11/1210_ngc2359/ngc2359_20260211_120941_0_ng0ycv_l.png?rand=1770841714.3197",
+      "file_size": 1342382,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17375806:png": {
       "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/02/09/0355_barnard33/barnard33_20260209_035713_0_chmao2_lrgb.png?rand=1770718975.6755",
@@ -31711,6 +33391,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Antennae Galaxies (NGC 4038)"
+    },
+    "17396055:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Caldwell 90 (NGC 2867)",
+      "filename": "Chile One_ngc2867_20260211_044944_0_wm6po3_m_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17396055",
+      "mission_id": "3932383",
+      "telescope_name": "Chile One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Caldwell 90 (NGC 2867)\\Chile One\\FITS\\Chile One_ngc2867_20260211_044944_0_wm6po3_m_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/1/highmag/2026/02/11/0450_ngc2867/ngc2867_20260211_044944_0_wm6po3_m_cal.fit",
+      "file_size": 17547840,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17297070:FITS": {
       "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/01/26/1745_m104/m104_20260126_174500_0_z93qiy_l_cal.fit",
@@ -32304,6 +34000,22 @@
       "image_type": "FITS",
       "object_name": "Saturn"
     },
+    "17398241:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Eagle Nebula (M16)",
+      "filename": "Chile Two_m16_20260211_084600_0_dlqw4i_r_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398241",
+      "mission_id": "3888811",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Eagle Nebula (M16)\\Chile Two\\FITS\\Chile Two_m16_20260211_084600_0_dlqw4i_r_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0845_m16/m16_20260211_084600_0_dlqw4i_r_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17330839:FITS": {
       "download_url": "https://polaris.slooh.com/teide/3/highmag/2026/01/31/2330_m105/m105_20260131_233039_0_4fapug_m_cal.fit",
       "mission_id": "4041554",
@@ -32479,6 +34191,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Tarantula Nebula (NGC 2070)"
+    },
+    "17395687:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Canopus (Alpha Carinae)",
+      "filename": "Chile One_alphacarinae_20260211_034846_0_mtze6n_m_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17395687",
+      "mission_id": "3932371",
+      "telescope_name": "Chile One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Canopus (Alpha Carinae)\\Chile One\\FITS\\Chile One_alphacarinae_20260211_034846_0_mtze6n_m_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/1/highmag/2026/02/11/0350_alphacarinae/alphacarinae_20260211_034846_0_mtze6n_m_cal.fit",
+      "file_size": 17547840,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17363488:png": {
       "download_url": "https://polaris2.slooh.com/teide/4/highmag/2026/02/06/2050_messier1/messier1_20260206_205107_0_qt5egw_m.png?rand=1770719199.9577",
@@ -32783,6 +34511,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Double Double (Epsilon Lyrae)"
+    },
+    "17396932:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Giant Elliptical Galaxy (M87)",
+      "filename": "Chile One_m87_20260211_073541_0_fh0yvq_m_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17396932",
+      "mission_id": "3932416",
+      "telescope_name": "Chile One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Giant Elliptical Galaxy (M87)\\Chile One\\FITS\\Chile One_m87_20260211_073541_0_fh0yvq_m_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/1/highmag/2026/02/11/0735_m87/m87_20260211_073541_0_fh0yvq_m_cal.fit",
+      "file_size": 17547840,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17201267:png": {
       "download_url": "https://polaris2.slooh.com/teide/4/highmag/2026/01/12/0630_m101/m101_20260112_063024_0_qxdmly_m.png?rand=1770714411.0662",
@@ -33441,20 +35185,20 @@
       "object_name": "Messier 1 "
     },
     "17388446:FITS": {
-      "image_type": "FITS",
-      "session_id": 3,
-      "object_name": "Horsehead Nebula (Barnard 33)",
-      "filename": "Australia One_barnard33_20260210_103711_0_llhjqm_b_cal.fit",
-      "photoroll_position": null,
-      "image_id": "17388446",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/10/1035_barnard33/barnard33_20260210_103711_0_llhjqm_b_cal.fit",
       "mission_id": "3845126",
       "telescope_name": "Australia One",
-      "customer_image_id": "",
-      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\FITS\\Australia One_barnard33_20260210_103711_0_llhjqm_b_cal.fit",
-      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/10/1035_barnard33/barnard33_20260210_103711_0_llhjqm_b_cal.fit",
       "file_size": 3732480,
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\FITS\\Australia One_barnard33_20260210_103711_0_llhjqm_b_cal.fit",
+      "image_id": "17388446",
+      "download_date": "2026-02-11T08:09:22.683000",
+      "session_id": 3,
+      "customer_image_id": "",
+      "filename": "Australia One_barnard33_20260210_103711_0_llhjqm_b_cal.fit",
+      "photoroll_position": null,
       "md5_hash": "",
-      "download_date": "2026-02-11T08:09:22.683000"
+      "image_type": "FITS",
+      "object_name": "Horsehead Nebula (Barnard 33)"
     },
     "17252528:FITS": {
       "download_url": "https://polaris.slooh.com/teide/2/widefield/2026/01/19/2230_m1/m1_20260119_223152_0_1xcxll_b_cal.fit",
@@ -33680,6 +35424,22 @@
       "image_type": "FITS",
       "object_name": "Caldwell 109 "
     },
+    "17397796:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Horsehead Nebula (Barnard 33)",
+      "filename": "Australia One_barnard33_20260211_103214_0_r2jol8_g_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17397796",
+      "mission_id": "3845231",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\FITS\\Australia One_barnard33_20260211_103214_0_r2jol8_g_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1030_barnard33/barnard33_20260211_103214_0_r2jol8_g_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17254328:png": {
       "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/01/20/0800_m104/m104_20260120_080224_0_tjccih_lrgb.png?rand=1770717055.3827",
       "mission_id": "",
@@ -33840,6 +35600,22 @@
       "image_type": "png",
       "object_name": "Caldwell 2 (NGC 40)"
     },
+    "17392169:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Caldwell 39 (NGC 2392)",
+      "filename": "Canary Four_ngc2392_20260211_040500_0_ntqjs3_m.png",
+      "photoroll_position": 44,
+      "image_id": "17392169",
+      "mission_id": "",
+      "telescope_name": "Canary Four",
+      "customer_image_id": "14974934",
+      "file_path": "D:\\Slooh\\Caldwell 39 (NGC 2392)\\Canary Four\\PNG\\Canary Four_ngc2392_20260211_040500_0_ntqjs3_m.png",
+      "download_url": "https://polaris2.slooh.com/teide/4/highmag/2026/02/11/0405_ngc2392/ngc2392_20260211_040500_0_ntqjs3_m.png?rand=1770841714.8364",
+      "file_size": 3810241,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17383093:FITS": {
       "download_url": "https://polaris.slooh.com/teide/4/highmag/2026/02/09/2110_m1/m1_20260209_211106_1_6xx8f5_m_cal.fit",
       "mission_id": "4086585",
@@ -33967,6 +35743,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Bow-Tie Nebula (NGC 40)"
+    },
+    "17398255:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Eagle Nebula (M16)",
+      "filename": "Chile Two_m16_20260211_084732_0_cbpggl_b_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398255",
+      "mission_id": "3888811",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Eagle Nebula (M16)\\Chile Two\\FITS\\Chile Two_m16_20260211_084732_0_cbpggl_b_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0845_m16/m16_20260211_084732_0_cbpggl_b_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17346071:png": {
       "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/04/1520_ngc2775/ngc2775_20260204_152219_0_7uiupf_lrgb.png?rand=1770719423.5911",
@@ -34287,6 +36079,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Messier 1 "
+    },
+    "17393761:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Inkspot Nebula (Barnard 86)",
+      "filename": "Chile Two_barnard86_20260211_080014_0_1p7log_l.png",
+      "photoroll_position": 25,
+      "image_id": "17393761",
+      "mission_id": "",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "14976292",
+      "file_path": "D:\\Slooh\\Inkspot Nebula (Barnard 86)\\Chile Two\\PNG\\Chile Two_barnard86_20260211_080014_0_1p7log_l.png",
+      "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/02/11/0800_barnard86/barnard86_20260211_080014_0_1p7log_l.png?rand=1770841714.4217",
+      "file_size": 1221857,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17274297:png": {
       "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/01/23/0705_ngc3372/ngc3372_20260123_070538_0_0yrpq2_l.png?rand=1770716204.9508",
@@ -34912,6 +36720,22 @@
       "image_type": "png",
       "object_name": "Caroline's Rose Cluster (NGC 7789)"
     },
+    "17398340:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Thor's Helmet (NGC 2359)",
+      "filename": "Australia One_ngc2359_20260211_133554_0_mjgwmi_r_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398340",
+      "mission_id": "3845268",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\FITS\\Australia One_ngc2359_20260211_133554_0_mjgwmi_r_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1335_ngc2359/ngc2359_20260211_133554_0_mjgwmi_r_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17250325:FITS": {
       "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/01/19/1015_barnard33/barnard33_20260119_101644_0_fgkwng_g_cal.fit",
       "mission_id": "3842892",
@@ -35328,6 +37152,22 @@
       "image_type": "FITS",
       "object_name": "Caldwell 28 (NGC 752)"
     },
+    "17398021:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Inkspot Nebula (Barnard 86)",
+      "filename": "Chile Two_barnard86_20260211_080250_0_gkgy7y_b_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398021",
+      "mission_id": "3888802",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Inkspot Nebula (Barnard 86)\\Chile Two\\FITS\\Chile Two_barnard86_20260211_080250_0_gkgy7y_b_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0800_barnard86/barnard86_20260211_080250_0_gkgy7y_b_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17251746:png": {
       "download_url": "https://polaris2.slooh.com/teide/2/widefield/2026/01/19/2305_barnard33/barnard33_20260119_230658_0_l6ruuy_lrgb.png?rand=1770717372.0784",
       "mission_id": "",
@@ -35536,6 +37376,38 @@
       "image_type": "FITS",
       "object_name": "Orion Nebula (M42)"
     },
+    "17395738:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Thor's Helmet (NGC 2359)",
+      "filename": "Australia One_ngc2359_20260211_121224_0_4qbdq7_lrgb.png",
+      "photoroll_position": 10,
+      "image_id": "17395738",
+      "mission_id": "",
+      "telescope_name": "Australia One",
+      "customer_image_id": "14976960",
+      "file_path": "D:\\Slooh\\Thor's Helmet (NGC 2359)\\Australia One\\PNG\\Australia One_ngc2359_20260211_121224_0_4qbdq7_lrgb.png",
+      "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/02/11/1210_ngc2359/ngc2359_20260211_121224_0_4qbdq7_lrgb.png?rand=1770841714.3128",
+      "file_size": 2007829,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
+    "17397947:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Horsehead Nebula (Barnard 33)",
+      "filename": "Australia One_barnard33_20260211_111813_0_yoqiea_r_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17397947",
+      "mission_id": "3845240",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\FITS\\Australia One_barnard33_20260211_111813_0_yoqiea_r_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1115_barnard33/barnard33_20260211_111813_0_yoqiea_r_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17297936:png": {
       "download_url": "https://polaris2.slooh.com/teide/4/highmag/2026/01/27/0025_ngc40/ngc40_20260127_002603_0_amh3yu_m.png?rand=1770720681.3936",
       "mission_id": "",
@@ -35583,6 +37455,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Hubble's Variable Nebula (NGC 2261)"
+    },
+    "17397798:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Horsehead Nebula (Barnard 33)",
+      "filename": "Australia One_barnard33_20260211_103302_0_ufkhfs_b_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17397798",
+      "mission_id": "3845231",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\FITS\\Australia One_barnard33_20260211_103302_0_ufkhfs_b_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1030_barnard33/barnard33_20260211_103302_0_ufkhfs_b_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17209225:png": {
       "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/01/14/0625_ngc5128/ngc5128_20260114_062448_0_tu85ot_l.png?rand=1770714099.2061",
@@ -35663,6 +37551,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Horsehead Nebula (Barnard 33)"
+    },
+    "17392180:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Caldwell 39 (NGC 2392)",
+      "filename": "Canary Four_ngc2392_20260211_040613_0_aycvwh_m.png",
+      "photoroll_position": 43,
+      "image_id": "17392180",
+      "mission_id": "",
+      "telescope_name": "Canary Four",
+      "customer_image_id": "14974938",
+      "file_path": "D:\\Slooh\\Caldwell 39 (NGC 2392)\\Canary Four\\PNG\\Canary Four_ngc2392_20260211_040613_0_aycvwh_m.png",
+      "download_url": "https://polaris2.slooh.com/teide/4/highmag/2026/02/11/0405_ngc2392/ngc2392_20260211_040613_0_aycvwh_m.png?rand=1770841714.7831",
+      "file_size": 4820119,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17303438:FITS": {
       "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/01/27/1735_ngc4631/ngc4631_20260127_173512_0_anxlg9_l_cal.fit",
@@ -35791,6 +37695,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Messier 1 "
+    },
+    "17398403:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Baade's Window (NGC 6522)",
+      "filename": "Chile Two_ngc6522_20260211_090714_0_hlkirm_g_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398403",
+      "mission_id": "3888815",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Baade's Window (NGC 6522)\\Chile Two\\FITS\\Chile Two_ngc6522_20260211_090714_0_hlkirm_g_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0905_ngc6522/ngc6522_20260211_090714_0_hlkirm_g_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17327501:png": {
       "download_url": "https://polaris2.slooh.com/teide/4/highmag/2026/01/31/2005_m79/m79_20260131_200605_0_zpxgce_m.png?rand=1770719738.0766",
@@ -36063,6 +37983,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Horsehead Nebula (Barnard 33)"
+    },
+    "17393579:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Giant Elliptical Galaxy (M87)",
+      "filename": "Chile One_m87_20260211_073544_0_e4xsss_m.png",
+      "photoroll_position": 29,
+      "image_id": "17393579",
+      "mission_id": "",
+      "telescope_name": "Chile One",
+      "customer_image_id": "14976192",
+      "file_path": "D:\\Slooh\\Giant Elliptical Galaxy (M87)\\Chile One\\PNG\\Chile One_m87_20260211_073544_0_e4xsss_m.png",
+      "download_url": "https://polaris2.slooh.com/chile/1/highmag/2026/02/11/0735_m87/m87_20260211_073544_0_e4xsss_m.png?rand=1770841714.4499",
+      "file_size": 3625655,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17299654:FITS": {
       "download_url": "https://polaris.slooh.com/teide/4/highmag/2026/01/26/2120_ngc40/ngc40_20260126_212202_0_zeznmi_m_cal.fit",
@@ -36399,6 +38335,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Caldwell 79 "
+    },
+    "17398043:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Horsehead Nebula (Barnard 33)",
+      "filename": "Australia One_barnard33_20260211_115941_0_f6uzs7_l_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398043",
+      "mission_id": "3845249",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\FITS\\Australia One_barnard33_20260211_115941_0_f6uzs7_l_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1200_barnard33/barnard33_20260211_115941_0_f6uzs7_l_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17200265:png": {
       "download_url": "https://polaris2.slooh.com/teide/4/highmag/2026/01/11/2310_barnard33/barnard33_20260111_231050_0_xonmw2_m.png?rand=1770714411.3413",
@@ -37008,6 +38960,22 @@
       "image_type": "png",
       "object_name": "Caldwell 76 (NGC 6231)"
     },
+    "17398163:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Horsehead Nebula (Barnard 33)",
+      "filename": "Australia One_barnard33_20260211_124225_0_uytfqd_b_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398163",
+      "mission_id": "3845257",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\FITS\\Australia One_barnard33_20260211_124225_0_uytfqd_b_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1240_barnard33/barnard33_20260211_124225_0_uytfqd_b_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17376437:png": {
       "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/02/09/0730_dcld301.0-08.6/dcld301.0-08.6_20260209_072937_0_g3ggi2_l.png?rand=1770718975.6133",
       "mission_id": "",
@@ -37103,6 +39071,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Rosette Nebula (NGC 2237)"
+    },
+    "17395698:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Canopus (Alpha Carinae)",
+      "filename": "Chile One_alphacarinae_20260211_034911_0_wfzusf_m_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17395698",
+      "mission_id": "3932371",
+      "telescope_name": "Chile One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Canopus (Alpha Carinae)\\Chile One\\FITS\\Chile One_alphacarinae_20260211_034911_0_wfzusf_m_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/1/highmag/2026/02/11/0350_alphacarinae/alphacarinae_20260211_034911_0_wfzusf_m_cal.fit",
+      "file_size": 17547840,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17229053:png": {
       "download_url": "https://polaris2.slooh.com/aus/1/highmag/2026/01/16/1220_barnard33/barnard33_20260116_121936_0_l4enf9_l.png?rand=1770713873.3604",
@@ -37247,6 +39231,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Elliptical Galaxy M59"
+    },
+    "17394621:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Caldwell 50 (NGC 2244)",
+      "filename": "Chile One_ngc2244_20260211_010126_0_bsyepx_m_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17394621",
+      "mission_id": "3932337",
+      "telescope_name": "Chile One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Caldwell 50 (NGC 2244)\\Chile One\\FITS\\Chile One_ngc2244_20260211_010126_0_bsyepx_m_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/1/highmag/2026/02/11/0100_ngc2244/ngc2244_20260211_010126_0_bsyepx_m_cal.fit",
+      "file_size": 17547840,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17248660:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/19/0450_ngc2359/ngc2359_20260119_045011_0_exp0lr_l_cal.fit",
@@ -37472,6 +39472,22 @@
       "image_type": "FITS",
       "object_name": "Caldwell 56 (NGC 246)"
     },
+    "17393785:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Inkspot Nebula (Barnard 86)",
+      "filename": "Chile Two_barnard86_20260211_080311_0_qbk8ca_lrgb.png",
+      "photoroll_position": 24,
+      "image_id": "17393785",
+      "mission_id": "",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "14976306",
+      "file_path": "D:\\Slooh\\Inkspot Nebula (Barnard 86)\\Chile Two\\PNG\\Chile Two_barnard86_20260211_080311_0_qbk8ca_lrgb.png",
+      "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/02/11/0800_barnard86/barnard86_20260211_080311_0_qbk8ca_lrgb.png?rand=1770841714.4148",
+      "file_size": 2720688,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17303127:png": {
       "download_url": "https://polaris2.slooh.com/teide/4/highmag/2026/01/27/2015_ngc7023/ngc7023_20260127_201603_0_hhigfc_m.png?rand=1770720464.3184",
       "mission_id": "",
@@ -37505,20 +39521,20 @@
       "object_name": "Little Dumbbell Nebula (M76)"
     },
     "17388445:FITS": {
-      "image_type": "FITS",
-      "session_id": 3,
-      "object_name": "Horsehead Nebula (Barnard 33)",
-      "filename": "Australia One_barnard33_20260210_103625_0_32nujr_g_cal.fit",
-      "photoroll_position": null,
-      "image_id": "17388445",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/10/1035_barnard33/barnard33_20260210_103625_0_32nujr_g_cal.fit",
       "mission_id": "3845126",
       "telescope_name": "Australia One",
-      "customer_image_id": "",
-      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\FITS\\Australia One_barnard33_20260210_103625_0_32nujr_g_cal.fit",
-      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/10/1035_barnard33/barnard33_20260210_103625_0_32nujr_g_cal.fit",
       "file_size": 3732480,
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\FITS\\Australia One_barnard33_20260210_103625_0_32nujr_g_cal.fit",
+      "image_id": "17388445",
+      "download_date": "2026-02-11T08:09:22.683000",
+      "session_id": 3,
+      "customer_image_id": "",
+      "filename": "Australia One_barnard33_20260210_103625_0_32nujr_g_cal.fit",
+      "photoroll_position": null,
       "md5_hash": "",
-      "download_date": "2026-02-11T08:09:22.683000"
+      "image_type": "FITS",
+      "object_name": "Horsehead Nebula (Barnard 33)"
     },
     "17326139:FITS": {
       "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/01/31/0900_m69/m69_20260131_090038_0_9av2oc_r_cal.fit",
@@ -37664,6 +39680,22 @@
       "image_type": "FITS",
       "object_name": "Caldwell 100 (IC 2944)"
     },
+    "17396005:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Bennett 16 (NGC 1365)",
+      "filename": "Chile One_ngc1365_20260211_044216_0_mkxaao_m_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17396005",
+      "mission_id": "3932381",
+      "telescope_name": "Chile One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Bennett 16 (NGC 1365)\\Chile One\\FITS\\Chile One_ngc1365_20260211_044216_0_mkxaao_m_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/1/highmag/2026/02/11/0440_ngc1365/ngc1365_20260211_044216_0_mkxaao_m_cal.fit",
+      "file_size": 17547840,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17227602:FITS": {
       "download_url": "https://polaris.slooh.com/teide/4/highmag/2026/01/16/0020_alphacanismajoris/alphacanismajoris_20260116_001856_0_82hmht_m_cal.fit",
       "mission_id": "4083201",
@@ -37695,6 +39727,22 @@
       "md5_hash": "",
       "image_type": "FITS",
       "object_name": "Sombrero Galaxy (M104)"
+    },
+    "17397037:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Hubble's Variable Nebula (NGC 2261)",
+      "filename": "Chile Two_ngc2261_20260211_052752_0_szwu0h_b_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17397037",
+      "mission_id": "3888771",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Hubble's Variable Nebula (NGC 2261)\\Chile Two\\FITS\\Chile Two_ngc2261_20260211_052752_0_szwu0h_b_cal.fit",
+      "download_url": "https://polaris.slooh.com/chile/2/highmag/2026/02/11/0525_ngc2261/ngc2261_20260211_052752_0_szwu0h_b_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17337169:FITS": {
       "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/02/1345_fullmoon/fullmoon_20260202_134514_0_xw0nww_h_cal.fit",
@@ -37904,6 +39952,38 @@
       "image_type": "png",
       "object_name": "Bubble Nebula (NGC 7635)"
     },
+    "17398144:FITS": {
+      "image_type": "FITS",
+      "session_id": 4,
+      "object_name": "Horsehead Nebula (Barnard 33)",
+      "filename": "Australia One_barnard33_20260211_124056_0_ut0l6m_r_cal.fit",
+      "photoroll_position": null,
+      "image_id": "17398144",
+      "mission_id": "3845257",
+      "telescope_name": "Australia One",
+      "customer_image_id": "",
+      "file_path": "D:\\Slooh\\Horsehead Nebula (Barnard 33)\\Australia One\\FITS\\Australia One_barnard33_20260211_124056_0_ut0l6m_r_cal.fit",
+      "download_url": "https://polaris.slooh.com/aus/1/highmag/2026/02/11/1240_barnard33/barnard33_20260211_124056_0_ut0l6m_r_cal.fit",
+      "file_size": 3732480,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
+    "17392693:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Hubble's Variable Nebula (NGC 2261)",
+      "filename": "Chile Two_ngc2261_20260211_052515_0_ohz78b_l.png",
+      "photoroll_position": 33,
+      "image_id": "17392693",
+      "mission_id": "",
+      "telescope_name": "Chile Two",
+      "customer_image_id": "14975308",
+      "file_path": "D:\\Slooh\\Hubble's Variable Nebula (NGC 2261)\\Chile Two\\PNG\\Chile Two_ngc2261_20260211_052515_0_ohz78b_l.png",
+      "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/02/11/0525_ngc2261/ngc2261_20260211_052515_0_ohz78b_l.png?rand=1770841714.5645",
+      "file_size": 1157393,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
+    },
     "17378738:png": {
       "download_url": "https://polaris2.slooh.com/teide/3/highmag/2026/02/09/2035_ngc752/ngc752_20260209_203703_0_68bbnp_m.png?rand=1770718975.5113",
       "mission_id": "",
@@ -38111,6 +40191,22 @@
       "md5_hash": "",
       "image_type": "png",
       "object_name": "Caldwell 76 (NGC 6231)"
+    },
+    "17392481:png": {
+      "image_type": "png",
+      "session_id": 4,
+      "object_name": "Caldwell 90 (NGC 2867)",
+      "filename": "Chile One_ngc2867_20260211_045234_0_nw68vl_m.png",
+      "photoroll_position": 37,
+      "image_id": "17392481",
+      "mission_id": "",
+      "telescope_name": "Chile One",
+      "customer_image_id": "14975149",
+      "file_path": "D:\\Slooh\\Caldwell 90 (NGC 2867)\\Chile One\\PNG\\Chile One_ngc2867_20260211_045234_0_nw68vl_m.png",
+      "download_url": "https://polaris2.slooh.com/chile/1/highmag/2026/02/11/0450_ngc2867/ngc2867_20260211_045234_0_nw68vl_m.png?rand=1770841714.6531",
+      "file_size": 4659792,
+      "md5_hash": "",
+      "download_date": "2026-02-12T09:33:22.455000"
     },
     "17254087:png": {
       "download_url": "https://polaris2.slooh.com/chile/2/highmag/2026/01/20/0715_ngc3372/ngc3372_20260120_071737_0_vc4llo_lrgb.png?rand=1770717055.3991",
@@ -38675,7 +40771,7 @@
   },
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-02-11T08:09:24.623000",
+    "last_updated": "2026-02-12T09:33:25.272000",
     "created": "2026-02-10T21:56:11.001000"
   },
   "sessions": [
@@ -38707,13 +40803,22 @@
       "images_downloaded": 24
     },
     {
-      "status": "running",
-      "images_downloaded": 14,
-      "end_time": "2026-02-11T08:09:24.623000",
       "images_failed": 0,
-      "total_bytes": 34207630,
+      "start_time": "2026-02-11T08:08:51.808000",
+      "end_time": "2026-02-11T08:09:24.623000",
       "session_id": 3,
-      "start_time": "2026-02-11T08:08:51.808000"
+      "status": "running",
+      "total_bytes": 34207630,
+      "images_downloaded": 14
+    },
+    {
+      "status": "running",
+      "images_downloaded": 29,
+      "end_time": "2026-02-12T09:33:25.272000",
+      "images_failed": 0,
+      "total_bytes": 281571623,
+      "session_id": 4,
+      "start_time": "2026-02-12T09:28:30.776000"
     }
   ]
 }
