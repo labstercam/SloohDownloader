@@ -5,6 +5,9 @@ config/config.json
 data/download_tracker.json
 data/download_tracker.json.backup
 data/download_tracker_backup_*.json
+src/data/download_tracker.json
+src/data/download_tracker.json.backup
+src/data/download_tracker_backup_*.json
 
 # Database files (legacy - if SQLite was used)
 data/downloads.db
